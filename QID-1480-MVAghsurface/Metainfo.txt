@@ -1,0 +1,13 @@
+Name of QuantLet: MVAghsurface
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Generates a 3D surface plot of the Gumbel-Hougaard copula for theta = 3.
+
+Keywords: 3D, plot, graphical representation, surface, gumbel, copula
+
+See also: MVAgumbelclayton
+
+Author: Song Song, Matthias Eckardt
+
+Submitted: Sun, January 29 2012 by Dedy Dwi Prastyo

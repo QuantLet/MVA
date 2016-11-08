@@ -1,0 +1,15 @@
+Name of Quantlet: MVAbluepullover
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Rewrites the 5.3 example using the classic blue pullover example and show the mean, covariance and correlation matrix of data.
+
+Keywords: correlation, correlation-matrix, covariance, covariance-matrix, mean, financial
+
+See also: MVAdescbh, SFSmvol01, SFEVolaCov
+
+Author: Matthias Eckardt
+
+Submitted: Mon, July 07 2014 by Lukas Borke
+
+Datafile: pullover.dat

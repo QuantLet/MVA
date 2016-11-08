@@ -1,0 +1,17 @@
+Name of QuantLet: MVAboxbhd
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Computes boxplots for the 14 variables of Boston Housing data.'
+
+Keywords: descriptive, descriptive-statistics, financial, standardize, transformation, data visualization, boxplot, plot, graphical representation, sas
+
+See also: MVAboxbank1, MVAboxbank6, MVAboxbhd, MVAboxcar
+
+Author: Julia Wandke, Franziska Schulz
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, September 09 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafiles: bostonh.dat

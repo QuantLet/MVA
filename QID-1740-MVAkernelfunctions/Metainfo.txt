@@ -1,0 +1,14 @@
+Name of QuantLet: MVAkernelfunctions
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Plots different kernel functions: Uniform, Triangle, Epanechnikov, Quartic (biweight), Gaussian.'
+
+Keywords: gaussian, kde, kernel, kernel smoothing, quartic, smoothing, uniform, gaussian, Epanechnikov, quartic, plot, graphical representation
+
+See also: SPMdenepatri, SPMdensity, SPMkdeconstruct, SPMkernel
+
+Author: Andrija Mihoci, Awdesch Melzer
+
+Submitted: Tue, September 09 2014 by Awdesch Melzer
+

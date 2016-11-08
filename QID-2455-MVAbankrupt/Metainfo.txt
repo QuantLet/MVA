@@ -1,0 +1,19 @@
+Name of QuantLet: MVAbankrupt
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes the effects of financial characteristics on bankrupt with logit model.
+
+Keywords: logit, regression, probability, characteristic, financial
+
+See also: MSElogit, MSEglmest, MSElorenz
+
+Author: Mengmeng Guo
+
+Submitted: Thu, June 05 2014 by Sergey Nasekin
+
+Datafile: bankrupt.txt
+
+Example: The coefficients of the five characteristics of bankrupt data for logit model, backfitting method and three independent variables.
+
+Code warning: 'glm.fit: fitted probabilities numerically 0 or 1 occurred' 

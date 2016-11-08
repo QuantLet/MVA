@@ -1,0 +1,17 @@
+Name of QuantLet : MVAnpcausco
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a PCA for the standardized US company data, shows the first two principal components and screeplot of the eigenvalues.
+
+Keywords: principal-components, pca, npca, eigenvalues, standardization, spectral-decomposition, screeplot, plot, graphical representation, data visualization, sas
+
+See also: MVAnpcabanki, MVAnpcabank, MVAnpcahousi, MVAnpcatime, MVAnpcafood, MVAnpcahous, MVAnpcausco2, MVAnpcausco2i, MVAcpcaiv, MVApcabank, MVApcabanki, MVApcabankr, MVApcasimu
+
+Author: Zografia Anastasiadou, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Wed, April 02 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: uscomp2.dat

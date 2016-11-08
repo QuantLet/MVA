@@ -1,0 +1,17 @@
+Name of QuantLet: MVAMDScity2
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes the map of the cities by application of multidimensional scaling. Reflects and rotates the figure by 90 degrees.
+
+Keywords: MDS, multi-dimensional, scaling, plot, graphical representation, sas
+
+See also: MVAMDScity1, MVAMDSnonmstart, MVAMDSpooladj, MVAmdscarm, MVAnmdscar1, MVAnmdscar2, MVAnmdscar3
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, October 28 2014 by Felix Jung
+Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+
+Example: Metric MDS solution for the intercity road distances after reflection and 90 degrees rotation.

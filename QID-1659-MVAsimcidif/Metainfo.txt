@@ -1,0 +1,13 @@
+Name of QuantLet: MVAsimcidif
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Tests the equality of 2 groups of US Company data and computes the F-statistic and the critical value of the test and the simultaneous confidence intervals.
+
+Keywords: F-statistic, critical-value, confidence-interval, mean, covariance, hypothesis-testing, test, financial
+
+Author: Awdesch Melzer, Vladimir Georgescu, Song Song
+
+Submitted: Wed, March 14 2012 by Dedy Dwi Prastyo
+
+Datafile: uscomp2.dat

@@ -1,0 +1,13 @@
+Name of QuantLet: MVAsvmOrangePeel
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots the area of two different groups of orange peel data via svm classification using anipotropic Gaussian kernel.
+
+Keywords: SVM, anitropic, gaussian, kernel, plot, graphical representation, classification
+
+See also: MVAsvmSpiral, MVAppsib, ppsib, ppsibexample
+
+Author: Dedy D. Prastyo
+
+Submitted: Mon, March 17 2014 by Franziska Schulz

@@ -1,0 +1,15 @@
+Name of QuantLet: MVAcorrCar
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes the Chi-Square test statistics for the car data.
+
+Keywords: correspondence-analysis, independence, test, chi-square-test, chi-square, financial, sas
+
+See also: MVAcorrbac, MVAcorrEyeHair, MVAcorrcrime, MVAcorrjourn, SMScorrcrime, SMScorrcarm, SMScorrfood, SMScorrhealth
+
+Author: Andrija Mihoci, Xiaofeng Cao
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Mon, October 17 2011 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya

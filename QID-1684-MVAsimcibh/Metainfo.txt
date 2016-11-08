@@ -1,0 +1,15 @@
+Name of QuantLet: MVAsimcibh
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Tests the equality of 2 groups of Boston Housing data and computes the F-statistic and the critical value of the test and the simultaneous confidence intervals.
+
+Keywords: F-test, F-statistic, critical-value, confidence-interval, test, hypothesis-testing, financial
+
+See also: MVAlinregbh, MVAdiscbh, MVAdescbh, MVAclusbh, MVAboxbhd, MVAaerbh
+
+Author: Vladimir Georgescu, Song Song, Awdesch Melzer
+
+Submitted: Wed, April 04 2012 by Dedy Dwi Prastyo
+
+Datafile: bostonh.dat

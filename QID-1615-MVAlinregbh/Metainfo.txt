@@ -1,0 +1,17 @@
+Name of QuantLet: MVAlinregbh
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Builds a linear regression model for the complete transformed Boston housing data.
+
+Keywords: linear, regression, linear-regression, financial, estimation, sas
+
+See also: MVAlinreg2bh, MMSTATlinreg, MVAregbank, MVAregpull, MVAregzoom, MVAsimcibh, MVAdiscbh, MVAdescbh, MVAclusbh, MVAboxbhd, MVAaerbh
+
+Author: Till Grossmass, Jorge Patron, Vladimir Georgescu, Song Song, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Wed, February 29 2012 by Dedy Dwi Prastyo
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: bostonh.dat

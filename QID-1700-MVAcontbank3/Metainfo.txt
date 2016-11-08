@@ -1,0 +1,16 @@
+
+Name of QuantLet: MVAcontbank3
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Gives a contour plot of the kernel density estimate of variables X4, X5 and X6 of the Swiss bank notes.'
+
+Keywords: 3D, data visualization, plot, graphical representation, financial, density, descriptive, descriptive-statistics, empirical, gaussian, kde, kernel, smoothing, univariate, visualization
+
+See also: MVAboxbank6, MVAdenbank2, MVAdenbank3, MVAdraftbank4, MVAscabank45, MVAscabank56, MVAscabank456, SPMdenepatri, SPMkdeconstruct, SPMkernel
+
+Author: Song Song
+
+Submitted: Tue, September 09 2014 by Awdesch Melzer
+
+Datafiles: bank2.dat

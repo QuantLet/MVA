@@ -1,0 +1,23 @@
+
+# clear variables and close windows
+rm(list = ls(all = TRUE))
+graphics.off()
+
+# install and load packages
+libraries = c("aplpack")
+lapply(libraries, function(x) if (!(x %in% installed.packages())) {
+install.packages(x)
+})
+lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+
+# load data
+x  = read.table("bank2.dat")
+xx = x[91:110, ]
+
+ncolors = 15
+
+# plot
+faces(xx, nrow = 4, face.type = 1, scale = TRUE, col.nose = rainbow(ncolors), col.eyes = rainbow(ncolors, 
+    start = 0.6, end = 0.85), col.hair = terrain.colors(ncolors), col.face = heat.colors(ncolors), 
+    col.lips = rainbow(ncolors, start = 0, end = 1), col.ears = rainbow(ncolors, 
+        start = 0, end = 0.8), plot.faces = TRUE)

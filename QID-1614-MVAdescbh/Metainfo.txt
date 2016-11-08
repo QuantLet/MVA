@@ -1,0 +1,17 @@
+Name of QuantLet: MVAdescbh
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Calculates descriptive statistics for the Boston housing data and their transformations.'
+
+Keywords: correlation, correlation-matrix, covariance, covariance-matrix, descriptive, descriptive-statistics, five number summary, mean, statistics, transformation, sas
+
+See also: MVAlinregbh, MVAlinreg2bh, MVAsimcibh, MVAdiscbh, MVAclusbh, MVAboxbhd, MVAaerbh
+
+Author: Vladimir Georgescu, Jorge Patron, Song Song, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Mon, September 15 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafiles: bostonh.dat

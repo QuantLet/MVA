@@ -1,0 +1,19 @@
+Name of QuantLet: MVAhisbank2
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes 4 histograms for the diagonal of the forged Swiss bank notes. The histograms are different with respect to their origin.
+
+Keywords: binwidth, data visualization, descriptive, descriptive-statistics, distribution, empirical, histogram, origin, plot, graphical representation, sas
+
+See also: MVAhisbank1
+
+Author: Song Song, Vladimir Georgescu, Jorge Patron, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, September 09 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafiles: bank2.dat
+
+Example: Diagonal of counterfeit bank notes. Histogram with h = 0.4 and origins x0 = 137.65 (upper left), x0 = 137.75 (lower left), x0 = 137.85 (upper right), x0 = 137.95 (lower right).

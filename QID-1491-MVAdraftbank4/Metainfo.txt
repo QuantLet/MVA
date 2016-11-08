@@ -1,0 +1,15 @@
+Name of QuantLet: MVAdraftbank4
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes a Draftman Plot for columns 3, 4, 5 and 6 of the Swiss bank notes data.
+
+Keywords: contour, data visualization, density, empirical, graphical representation, plot, scatterplot
+
+See also: MVAdrafthousing, MVAdrafthousingt
+
+Author: Julia Wandke
+
+Submitted: Tue, September 09 2014 by Awdesch Melzer
+
+Datafiles: bank2.dat

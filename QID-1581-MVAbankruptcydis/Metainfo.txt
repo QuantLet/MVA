@@ -1,0 +1,15 @@
+Name of Quantlet: MVAbankruptcydis
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes classification ratio dynamic over the number of terminal nodes.
+
+Keywords: classification, cross-validation, plot, data visualization, graphical representation
+
+See also: SMSlassocar, SMSlassologit
+
+Author: Song Song, Vladimir Georgescu, Awdesch Melzer
+
+Submitted:  Wed, June 04 2014 by Felix Jung
+
+Example: Classification ratio by minsize parameter.

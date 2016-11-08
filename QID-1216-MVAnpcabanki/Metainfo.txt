@@ -1,0 +1,21 @@
+Name of QuantLet: MVAnpcabanki
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Shows a screeplot of the eigenvalues for the PCA of the standardized Swiss bank notes. Additionally, it computes the correlations between the variables and the principal components and displays the first two of them.
+
+Keywords: principal-components, pca, npca, eigenvalues, standardization, correlation, screeplot, plot, graphical representation, data visualization, sas
+
+See also: MVAnpcabank, MVAnpcahous, MVAnpcahousi, MVAnpcatime, MVAnpcafood, MVAnpcausco, MVAnpcausco2, MVAnpcausco2i, MVAcpcaiv, MVApcabank, MVApcabanki, MVApcabankr, MVApcasimu
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, March 11 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: bank2.dat
+
+Example: 
+- 1: Screeplot of the eigenvalues for the PCA of the standardized Swiss bank notes.
+- 2: The correlations of the original variables with the PCs.

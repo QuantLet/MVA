@@ -1,0 +1,23 @@
+
+Name of QuantLet: MVAlassocontour
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Plots the Lasso solution under the least squares loss function. The contour plots of the quadratic form objective function are produced which are centered at the least squares solution (beta_1,beta_2)^t = (6,7)^t in the two-dimensional case for the case of both the non-orthonormal and orthonormal design. The tuning parameter s being equal to 4.'
+
+Keywords: contour, least-squares, lasso, lasso shrinkage, plot, graphical representation
+
+See also: LCPvariance, MVAlassologit, MVAlassoregress, SMSlassocar, SMSlassoridge
+
+Author: Sergey Nasekin
+
+Submitted: Sun, May 03 2015 by Awdesch Melzer
+
+Input: 
+- s : lasso tuning parameter 
+- orthonorm : logical (1 if orthonormal design is required to be plotted, 0 if non-orthonormal)
+- beta : basic OLS solution around which the quadratic form objective function is centered.
+
+Example: 
+- 1: Lasso solution in the general design case.
+- 2: Lasso solution in the orthonormal design case.

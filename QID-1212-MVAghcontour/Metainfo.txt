@@ -1,0 +1,13 @@
+Name of QuantLet: MVAghcontour
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Gives contour plots of Gumbel-Hougard copula for different theta values (1, 2, 3, 10, 30 and 100).
+
+Keywords: contour, copula, gumbel, plot, graphical representation
+
+See also: MVAsample1000
+
+Author: Song Song
+
+Submitted: Thu, August 04 2011 by Awdesch Melzer

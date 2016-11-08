@@ -1,0 +1,19 @@
+Name of QuantLet: MVAnpcabank
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a PCA for the standardized Swiss bank notes and shows the first three principal components in two-dimensional scatterplots. Additionally, a screeplot of the eigenvalues is displayed.
+
+Keywords: principal-components, pca, npca, eigenvalues, standardization, scatterplot, screeplot, plot, graphical representation, data visualization, sas
+
+See also: MVAnpcabanki, MVAnpcahous, MVAnpcahousi, MVAnpcatime, MVAnpcafood, MVAnpcausco, MVAnpcausco2, MVAnpcausco2i, MVAcpcaiv, MVApcabank, MVApcabanki, MVApcabankr, MVApcasimu
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Thu, August 04 2011 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: bank2.dat
+
+Example: Principal components of the standardized bank data. 

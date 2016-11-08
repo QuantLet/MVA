@@ -1,0 +1,17 @@
+Name of QuantLet: MVAppsib
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Reads the Boston housing data and spheres them to run Exploratory Projection Pursuit (EPP) on them. We select n (=50) randomly chosen one-dimensional projections in the space of the data. For each set of projected data the Sibson Jones index is applied, which considers the deviations from the normal density for univariate data, to judge the interestingness- of the projection.
+
+Keywords: projection-pursuit, projection, EPP, exploratory-projection-pursuit, plot, graphical representation, Jones and Sibson index, estimation, density, data visualization, financial
+
+See also: MVAsimdep1, MVAsirdata, MVAsir2data, MVAsimdepex, MVAppexample, ppsib, ppsibexample, ppexample, ppf
+
+Author: Awdesch Melzer
+
+Submitted: Wed, September 25 2013 by Awdesch Melzer
+
+Datafile: bostonh.dat
+
+Example: Projection Pursuit with the Sibson-Jones index for the original data set for 50 randomly chosen directions. The figure shows the density for the standard, normally distributed data (green) and the estimated densities for the best (red) and the worst (blue) projections found. A dotplot of the projections is also presented. In the lower part we see the values of the Sibson Jones index.

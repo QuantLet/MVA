@@ -1,0 +1,15 @@
+Name of QuantLet: MVAMDSpooladj
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes the pool adjacent violator algorithm (PAV).
+
+Keywords: MDS, non-metric-MDS, multi-dimensional, scaling, PAV, violators, Shepard-Kruskal, plot, graphical representation, sas
+
+See also: MVAMDScity1, MVAMDScity2, MVAMDSnonmstart, MVAmdscarm, MVAnmdscar1, MVAnmdscar2, MVAnmdscar3, MVAcarrankings, PAVAlgo
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, October 28 2014 by Felix Jung
+Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya

@@ -1,0 +1,15 @@
+Name of QuantLet: MVAsimdepex
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Calculates and plots the simplicial depth for a two-dimensional, 10 point distribution according to depth.
+
+Keywords: simplicial-depth, median, distribution, plot, graphical representation
+
+See also: MVAppsib, MVAsimdep1, MVAsir2data, MVAsirdata, MVAppexample, ppsib, ppsibexample
+
+Author: Zografia Anastasiadou, Franziska Schulz
+
+Submitted: Tue, February 04 2014 by Franziska Schulz
+
+Example: The points with higher depth are indicated via filled shapes and the deepest point, the two-dimensional median is indicated as a big red star in the center.

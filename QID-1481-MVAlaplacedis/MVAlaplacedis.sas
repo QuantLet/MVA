@@ -1,0 +1,31 @@
+data pdf;
+  do x = -6 to 6 by 0.1;
+    p1 = pdf("Laplace", x, 0, 1);
+    p2 = pdf("Laplace", x, 0, 1.5);
+    p3 = pdf("Laplace", x, 0, 2);
+    c1 = cdf("Laplace", x, 0, 1);
+    c2 = cdf("Laplace", x, 0, 1.5);
+    c3 = cdf("Laplace", x, 0, 2);
+    output;
+  end;
+run;
+ 
+* PDF of Laplace Distribution;
+proc sgplot data = pdf;
+  title 'PDF of Laplace distribution';
+  series x = x y = p1 / legendlabel = 'L1' lineattrs = (color = black thickness = 2);
+  series x = x y = p2 / legendlabel = 'L1.5'  lineattrs = (color = blue thickness = 2);
+  series x = x y = p3 / legendlabel = 'L2'  lineattrs = (color = red thickness = 2);
+  xaxis label = "X"; 
+  yaxis label = "Y";
+run;
+
+* CDF of Laplace Distribution;
+proc sgplot data = pdf;
+  title 'CDF of Laplace distribution';
+  series x = x y = c1 / legendlabel = 'L1' lineattrs = (color = black thickness = 2);
+  series x = x y = c2 / legendlabel = 'L1.5'  lineattrs = (color = blue thickness = 2);
+  series x = x y = c3 / legendlabel = 'L2'  lineattrs = (color = red thickness = 2);
+  xaxis label = "X"; 
+  yaxis label = "Y";
+run;

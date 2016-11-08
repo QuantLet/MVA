@@ -1,0 +1,17 @@
+Name of QuantLet: MVAcorrcrime
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a correspondence analysis for the US crime, shows the eigenvalues of the singular value decomposition of the chi-matrix and displays graphically its factorial decomposition.
+
+Keywords: correspondence-analysis, svd, decomposition, factorial-decomposition, eigenvalues, factorial, plot, graphical representation, data visualization, sas
+
+See also: MVAcorrCar, MVAcorrEyeHair, MVAcorrjourn, MVAcorrbac, SMScorrcrime, SMScorrcarm, SMScorrfood, SMScorrhealth
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, May 10 2011 by Zografia Anastasiadou
+Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+
+Datafile: uscrime.dat, uscrime_sas.dat

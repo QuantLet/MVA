@@ -1,0 +1,17 @@
+Name of QuantLet: MVAregpull
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes and plots a linear regression of sales on price from the pullovers data set.
+
+Keywords: R-squared, Testing, data visualization, graphical representation, linear-regression, regression, scatterplot, plot, financial, sas
+
+See also: MVAlinregbh, MVAcorrnorm, MVAregbank, MVAscabank45, MVAscabank56, MVAscabank456, MVAscacar, MVAscapull1, MVAscapull2, MVAdraftbank4, MVAdrafthousing, MVAdrafthousingt
+
+Author: Jorge Patron, Vladimir Georgescu, Song Song, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Mon, September 15 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: pullover.dat

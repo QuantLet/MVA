@@ -1,0 +1,19 @@
+Name of QuantLet: MVAspecclust
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: MVAspecclust computes the clusters for the exemplary data based on the Euclidean distance and predefined number of clusters.
+
+Keywords: cluster-analysis, spectral, plot, graphical representation, distance, euclidean, data visualization
+
+See also: MVAclus8p, MVAclusbank, MVAclusbh, MVAclusfood, MVAclususcrime, SMSclus8p, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
+
+Author: Piotr Majer
+
+Submitted: Sun, September 07 2014 by Awdesch Melzer
+
+Datafile: data_example.dat
+
+Example: 
+- 1: Plot of raw data.
+- 2: Plot of derived clusters.

@@ -1,0 +1,15 @@
+Name of QuantLet: MVApcp5
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes parallel coordinates plot for variables headroom, rear seat clearance and trunk space of the car data set.
+
+Keywords: pcp, parallel-coordinates-plot, financial, data visualizationvplot, graphical representation
+
+See also: MVApcphousing, MVApcp1, MVApcp2, MVApcp3, MVApcp4, MVApcp6, MVApcp7, MVApcp8 
+
+Author: Ji Cao, Song Song, Vladimir Georgescu, Awdesch Melzer
+
+Submitted: Tue, September 09 2014 by Awdesch Melzer
+
+Datafile: carc.txt

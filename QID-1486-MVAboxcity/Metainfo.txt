@@ -1,0 +1,17 @@
+Name of QuantLet: MVAboxcity
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Computes the five-number summary and a boxplot for world cities.'
+
+Keywords: descriptive, descriptive-statistics, quantile, five number summary, financial, data visualization, boxplot, plot, graphical representation, sas
+
+See also: MVAboxbank1, MVAboxbank6, MVAboxbhd, MVAboxcar
+
+Author: Jorge Patron, Vladimir Georgescu, Song Song
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, September 09 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafiles: cities.txt

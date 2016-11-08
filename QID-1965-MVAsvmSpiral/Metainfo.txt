@@ -1,0 +1,13 @@
+Name of QuantLet: MVAsvmSpiral
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots the area of two different groups of spiral data via svm classification using anisotropic Gaussian kernel.
+
+Keywords: SVM, anisotropic, gaussian, kernel, plot, graphical representation, classification
+
+See also: MVAsvmOrangePeel, MVAppsib, ppsib, ppsibexample
+
+Author: Dedy D. Prastyo
+
+Submitted: Mon, March 17 2014 by Franziska Schulz

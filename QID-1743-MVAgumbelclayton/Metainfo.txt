@@ -1,0 +1,13 @@
+Name of QuantLet: MVAgumbelclayton
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Produces Gumbel-Hougaard and Clayton copula sampling for fixed parameter theta.
+
+Keywords: gumbel, clayton, copula, multivariate-copula, statistics, probability, plot, graphical representation
+
+See also: MVAghsurface
+
+Author: Awdesch Melzer
+
+Submitted: Fri, May 18 2012 by Dedy Dwi Prastyo

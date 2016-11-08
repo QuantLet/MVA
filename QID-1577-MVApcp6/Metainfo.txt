@@ -1,0 +1,17 @@
+Name of QuantLet: MVApcp6
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes boxplots for variables headroom, rear seat clearance and trunk space of the car data set.
+
+Keywords: pcp, parallel-coordinates-plot, boxplot, financial, data visualization, plot, graphical representation, sas
+
+See also: MVApcphousing, MVApcp1, MVApcp2, MVApcp3, MVApcp4, MVApcp5, MVApcp7, MVApcp8
+
+Author: Ji Cao, Song Song, Vladimir Georgescu, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, September 09 2014 by Awdesch Melze
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: carc.txt, carc_sas.txt

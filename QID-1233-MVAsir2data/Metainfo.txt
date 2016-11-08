@@ -1,0 +1,15 @@
+Name of QuantLet: MVAsir2data
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Generates a data set and applies the sliced inverse regression algorithm (SIR II) for dimension reduction.
+
+Keywords: EDR-directions, dimension-reduction, estimation, SIR II, regression, 3D, plot, graphical representation
+
+See also: MVAppsib, MVAsimdep1, MVAsirdata, MVAsimdepex, MVAppexample, ppsib, ppsibexample
+
+Author: Zografia Anastasiadou
+
+Submitted: Fri, August 05 2011 by Awdesch Melzer
+
+Example: SIR II mainly sees the second direction. The left plots show the response versus the estimated effective dimension reduction directions (EDR-directions). The upper right plot is a three-dimensional plot of the first two directions and the response. The lower right plot shows the eigenvalues (*) and the cumulative sum (o).

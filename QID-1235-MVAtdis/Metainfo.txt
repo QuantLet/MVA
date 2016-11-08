@@ -1,0 +1,13 @@
+Name of QuantLet: MVAtdis
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots three probability density functions and three cumulative density functions of the t-distribution with different degrees of freedom (t3 stands for t-distribution with degree of freedom 3, etc.)
+
+Keywords: plot, graphical representation, t-distribution, cdf, pdf, density, distribution
+
+See also: MVAcltbern, MVAcltbern2, MVAgausscauchy, MVAcauchy
+
+Author: Wolfgang K. Haerdle
+
+Submitted: Mon, August 08 2011 by Awdesch Melzer

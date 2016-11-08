@@ -1,0 +1,13 @@
+Name of QuantLet: MVAlaplacedis
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots three probability density functions and three cumulative density functions of the Laplace-distribution with different scale (L1 stands for Laplace-distribution with scale 1, etc).
+
+Keywords: pdf, probability, density, cdf, multivariate, laplace, scale, plot, graphical representation, distribution, heavy-tailed, sas
+
+Author: Wolfgang K. Haerdle
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Sun, January 29 2012 by Dedy Dwi Prastyo
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya

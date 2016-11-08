@@ -1,0 +1,17 @@
+Name of QuantLet: MVAcpcaiv
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Estimates a common principal components model for the implied volatility data and computes a likelihood ratio test.
+
+Keywords: principal-components, pca, eigenvalues, plot, graphical representation, data visualization, common-principal-component, cpc, volatility, implied-volatility, likelihood-ratio-test
+
+See also: MVAnpcabanki, MVAnpcabank, MVAnpcahousi,, MVAnpcatime, MVAnpcafood, MVAnpcausco, MVAnpcausco2, MVAnpcausco2i, MVApcabank, MVAnpcahous, MVApcabanki, MVApcabankr, MVApcasimu
+
+Author: Zografia Anastasiadou, Awdesch Melzer
+
+Submitted: Wed, June 04 2014 by Felix Jung
+
+Datafile: XFGvolsurf01.dat, XFGvolsurf02.dat, XFGvolsurf03.dat
+
+Example: Factor loadings of the first (thick), the second (medium) and the third (thin) PC.

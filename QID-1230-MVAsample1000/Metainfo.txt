@@ -1,0 +1,15 @@
+Name of Quantlet: MVAsample1000
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Produces Gumbel-Hougaard copula sampling for fixed parameters sigma and theta.
+
+Keywords: copula, gumbel, scatterplot, plot, data visualization, graphical representation 
+
+See also: MVAcontnorm, MVAghcontour, MVAtdis
+
+Author: Song Song
+
+Submitted: Fri, August 05 2011 by Awdesch Melzer
+
+Example: 10000-sample output for sigma_1 = 1, sigma_2 = 1, theta = 3.

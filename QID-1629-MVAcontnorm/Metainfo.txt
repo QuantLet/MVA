@@ -1,0 +1,14 @@
+
+Name of QuantLet: MVAcontnorm
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Computes a scatterplot of a normal sample and the contour ellipses for mu =(3,2) and sigma = (1,-1.5)~(-1.5,4).'
+
+Keywords: bivariate, graphical representation, contour, normal-distribution, plot, scatterplot
+
+See also: MVAcontbank2, MVAdenbank2, MVAdenbank3, MVAscabank45, MVAscabank56, MVAscacar, MVAscapull1, MVAscapull2
+
+Author: Franziska Schulz, Maria Osipenko
+
+Submitted: Mon, February 09 2015 by Lukas Borke

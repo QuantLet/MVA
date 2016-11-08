@@ -1,0 +1,21 @@
+Name of QuantLet: MVAnpcausco2i
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Shows a screeplot of the eigenvalues for the PCA of the standardized US company data. It computes the correlations between the variables and the principal components and displays the first two of them.
+
+Keywords: principal-components, pca, npca, eigenvalues, standardization, spectral-decomposition, screeplot, plot, graphical representation, data visualization, correlation, sas 
+
+See also: MVAnpcabanki, MVAnpcabank, MVAnpcahousi, MVAnpcatime, MVAnpcafood, MVAnpcahous, MVAnpcausco, MVAnpcausco2, MVAcpcaiv, MVApcabank, MVApcabanki, MVApcabankr, MVApcasimu
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, March 18 2014 by Awdesch Melzer
+Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+
+Datafile: uscomp2.dat
+
+Example: 
+- 1: Screeplot of the eigenvalues for the PCA of the standardized US company data.
+- 2: First vs Second PC.

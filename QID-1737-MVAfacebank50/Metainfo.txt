@@ -1,0 +1,15 @@
+Name of QuantLet: MVAfacebank50
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Computes Flury faces for the Swiss bank notes data.'
+
+Keywords: Flury faces, financial, data visualization, graphical representation, plot
+
+See also: MVAfacebank10
+
+Author: Julia Wandke
+
+Submitted: Tue, September 09 2014 by Awdesch Melzer
+
+Datafiles: bank2.dat

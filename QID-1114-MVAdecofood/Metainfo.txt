@@ -1,0 +1,16 @@
+Name of QuantLet: MVAdecofood
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes a spectral decomposition of the French food data and gives a representation of food expenditures and family types in two dimensions.
+
+Keywords: decomposition, eigenvalues, eigenvectors, spectral, spectral-decomposition, standardization, plot, graphical representation
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Fri, April 11 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafiles: food.dat
+

@@ -1,0 +1,19 @@
+Name of QuantLet: MVAdisfbank
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a Fisher discrimination analysis of the Swiss bank notes, computes the misclassification rates for the whole dataset and displays nonparametric density estimates of the projected data.
+
+Keywords: discrimination, estimation, discriminant-analysis, Fisher, density, projection, Fisher LDA projection, nonparametric, plot, graphical representation, financial, sas
+
+See also: MVAaer, MVAaper, MVAaerbh, MVAdiscbh, MVAdisnorm
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, January 11 2011 by Zografia Anastasiadou
+Submitted[SAS]: Wen, March 30 2016 by Svetlana Bykovskaya
+
+Datafile: bank2.dat
+
+Example: Densities of projections of genuine and counterfeit bank notes by Fisher's discrimination rule.

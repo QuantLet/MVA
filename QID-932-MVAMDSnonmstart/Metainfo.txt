@@ -1,0 +1,17 @@
+Name of QuantLet: MVAMDSnonmstart
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes the monotonic regression and shows the rank order of dissimilarities for the pool-adjacent violators (PAV) algorithm.
+
+Keywords: MDS, non-metric-MDS, multi-dimensional, scaling, PAV, violators, Shepard-Kruskal, regression, plot, graphical representation, sas 
+
+See also: MVAMDScity1, MVAMDScity2, MVAMDSpooladj, MVAmdscarm, MVAnmdscar1, MVAnmdscar2, MVAnmdscar3, MVAcarrankings, PAVAlgo
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, October 28 2014 by Felix Jung
+Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+
+Example: Ranks and distances.

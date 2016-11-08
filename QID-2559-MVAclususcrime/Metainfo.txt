@@ -1,0 +1,19 @@
+Name of QuantLet: MVAclususcrime
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Interprets the 7 crime variables of the dataset as contingency table and computes the distance between the US states depending on these variables for building appropriate clusters.
+
+Keywords: cluster-analysis, contingency-table, distance, sas
+
+See also: MVAclus8p, MVAclusbank, MVAspecclust, MVAclusfood, MVAclusbh, SMSclus8p, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
+
+Author: Simon Trimborn, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Wed, October 01 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: uscrime.rda
+
+Output: Distance matrix for the 7 crime variables.

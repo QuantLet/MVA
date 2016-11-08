@@ -1,0 +1,17 @@
+Name of QuantLet: MVAmdscarm
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a multidimensional scaling (MDS) for the car marks data and shows the plots for the MDS and for the MDS/variables correlations.
+
+Keywords: MDS, multi-dimensional, scaling, principal-components, correlation, plot, graphical representation, data visualization, sas
+
+See also: MVAMDScity1, MVAMDScity2, MVAMDSnonmstart, MVAMDSpooladj, MVAnmdscar2, MVAnmdscar3, MVAcancarm, SMScancarm, SMScancarm1, SMScancarm2
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Thu, November 06 2014 by Sergey Nasekin
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: carmean2.dat, carmean2_sas.dat

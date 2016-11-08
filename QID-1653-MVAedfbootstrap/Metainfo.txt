@@ -1,0 +1,15 @@
+Name of QuantLet: MVAedfbootstrap
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Draws bootstrap samples from a simulate data standard normal dataset and plots their empirical distribution functions (edf).
+
+Keywords: edf, bootstrap, plot, graphical representation, multivariate, small-samples, distribution, sas
+
+See also: MVAedfnormal
+
+Author: Vladimir Georgescu, Jorge Patron, Song Song, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Thu, October 16 2014 by Petra Burdejova
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya

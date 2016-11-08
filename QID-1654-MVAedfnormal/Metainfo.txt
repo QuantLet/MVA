@@ -1,0 +1,15 @@
+Name of QuantLet: MVAedfnormal
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Draws n observations from a standard normal distribution and plots its empirical distribution function (edf) vs. the normal cumulative distribution function (cdf). Number of draws can be entered interactively.
+
+Keywords: standard-normal, multivariate, plot, graphical representation, edf, cdf, standard, normal, distribution
+
+See also: MVAedfbootstrap
+
+Author: Vladimir Georgescu, Jorge Patron, Song Song, Awdesch Melzer
+
+Submitted: Wed, March 14 2012 by Dedy Dwi Prastyo
+
+Example: Shows the EDF and CDF for the empirical and theoretical distribution with n=100 and n=1000.

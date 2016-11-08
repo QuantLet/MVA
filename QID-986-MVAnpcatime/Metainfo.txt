@@ -1,0 +1,23 @@
+Name of QuantLet: MVAnpcatime
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Performs a PCA for the standardized time 
+budget data and shows the first two principal components 
+for the individuals and the variables.'
+
+Keywords: principal-components, pca, npca, eigenvalues, standardization, eigenvalue-decomposition, plot, graphical representation, data visualization, sas 
+
+See also: MVAnpcabanki, MVAnpcahous, MVAnpcahousi, MVAnpcabank, MVAnpcafood, MVAnpcausco, MVAnpcausco2, MVAnpcausco2i, MVAcpcaiv, MVApcabank, MVApcabanki, MVApcabankr, MVApcasimu
+
+Author: Zografia Anastasiadou, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Wed, April 02 2014 by Awdesch Melzer
+Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+
+Datafile: timebudget.dat
+
+Example: 
+- 1: Representation of the individuals.
+- 2: Representation of the variables.

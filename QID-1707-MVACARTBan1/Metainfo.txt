@@ -1,0 +1,15 @@
+Name of Quantlet: MVACARTBan1
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs classification analysis for the US bankruptcy data with 84 companies employing the Gini index and a constraint. It plots a decision tree.
+
+Keywords: plot, graphical representation, classification, analysis, financial, decision-tree, data visualization, Gini index
+
+Author: Awdesch Melzer
+
+Submitted:  Sat, May 10 2014 by Felix Jung
+
+Datafile: bankruptcy.dat
+
+Outdated: Package mvpart was removed from the CRAN repository. Formerly available versions can be obtained from the archive.

@@ -1,0 +1,13 @@
+Name of QuantLet: MVAcauchy
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots three probability density functions and three cumulative density functions of the Cauchy distribution with m = 0 and different scale parameters (s=1, s=1.5, s=2).
+
+Keywords: plot, graphical representation, cauchy, cdf, pdf, density, distribution
+
+See also: MVAcltbern, MVAcltbern2, MVAgausscauchy, MVAtdis
+
+Author: Wolfgang K. Haerdle
+
+Submitted: Wed, September 07 2011 by Awdesch Melzer

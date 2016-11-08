@@ -1,0 +1,17 @@
+Name of QuantLet: MVAnpcahousi
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Calculates and plots the correlations of the first three PCs with the original variables for the standardized Boston housing data.
+
+Keywords: principal-components, pca, npca, eigenvalues, standardization, spectral-decomposition, correlation, plot, graphical representation, data visualization, sas
+
+See also: MVAnpcabanki, MVAnpcabank, MVAnpcahous, MVAnpcatime, MVAnpcafood, MVAnpcausco, MVAnpcausco2, MVAnpcausco2i, MVAcpcaiv, MVApcabank, MVApcabanki, MVApcabankr, MVApcasimu
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, March 11 2014 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: bostonh.dat

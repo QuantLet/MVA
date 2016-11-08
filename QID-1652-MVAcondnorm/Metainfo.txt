@@ -1,0 +1,12 @@
+Name of QuantLet: MVAcondnorm
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes conditional normal densities f(x2|x1) where the joint distribution has mean=(0|0) and cov=(1|-0.8)~(-0.8|2).
+
+Keywords: conditional density, conditional distribution, conditional mean, density, joint distribution, normal-distribution, plot, graphical representation
+
+Author: Maria Osipenko, Franziska Schulz
+
+Submitted: Mon, February 09 2015 by Lukas Borke
+

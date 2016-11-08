@@ -1,0 +1,15 @@
+Name of QuantLet: MVAdisnorm
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Displays graphically maximum likelihood discrimination rule (ML rule) for 2 normal distributed samples. The inner interval is the allocation set for N(1,0.25), the outer intervals are for observations from N(0,1).
+
+Keywords: discrimination, estimation, discriminant-analysis, maximum-likelihood, normal, normal-distribution, plot, graphical representation
+
+See also: MVAaer, MVAaper, MVAaerbh, MVAdisfbank, MVAdiscbh
+
+Author: Zografia Anastasiadou, Awdesch Melzer
+
+Submitted: Thu, May 10 2012 by Dedy Dwi Prastyo
+
+Example: Maximum likelihood rule for 2 normal distributed samples.

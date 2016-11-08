@@ -1,0 +1,26 @@
+Name of QuantLet: ppsib
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes the Sibson Jones index which considers the deviations from the normal density for univariate data.
+
+Keywords: projection-pursuit, projection, EPP, exploratory-projection-pursuit, Jones and Sibson index
+
+See also: MVAsimdep1, MVAsirdata, MVAsir2data, MVAsimdepex, MVAppexample, MVAppsib, ppsibexample, ppexample, ppf
+
+Author: Awdesch Melzer
+
+Submitted: Wed, September 25 2013 by Awdesch Melzer
+
+Datafile[example]: bank2.dat
+
+Input:  
+- px : n x 1 matrix containing the projected data
+
+Output: 
+- ind : scalar, the corresponding Sibson Jones index
+
+Example : 
+- 'Contents of ind
+   [1] 0.001988516'
+- The plot of the index function in dependence of the projection vector. The projection vector is parametrized by the angle phi. Since the projection vector v and -v generate the same projection, we see the index function doubled. Note that the maxima at phi=1,76 and phi=2,8 represent the most interesting projections.

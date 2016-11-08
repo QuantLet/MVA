@@ -1,0 +1,17 @@
+Name of QuantLet: MVAcarsim
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes the Jaccard, simple matching and Tanimoto proximity coefficients for binary car data.
+
+Keywords: cluster-analysis, proximity, similarity, distance, financial
+
+See also: MVAdrugsim, SMScarsim
+
+Author: Awdesch Melzer
+
+Submitted: Sun, September 07 2014 by Awdesch Melzer
+
+Datafile: carmean2.dat
+
+Example: Jaccard, simple matching and Tanimoto proximity coefficients for Renault, Rover and Toyota car data.

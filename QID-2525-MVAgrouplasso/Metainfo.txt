@@ -1,0 +1,13 @@
+Name of QuantLet: MVAgrouplasso
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a standardized regression using the group Lasso methodology. The estimates of groups of variables become nonzero at a point that means these groups of variables enter the model equation sequentially as the shrinkage parameter increases. The group Lasso technique excludes some of the groups from the model and all coefficients in the remaining groups are non zero. Finally, the resulting group Lasso estimates are plotted.
+
+Keywords: lasso shrinkage, lasso, estimation, regression, plot, graphical representation
+
+See also: LCPvariance
+
+Author: Dedy D. Prastyo, Sergey Nasekin
+
+Submitted: Fri, July 18 2014 by Felix Jung

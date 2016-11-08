@@ -1,0 +1,13 @@
+Name of QuantLet: MVAsimdep1
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Shows an example for the simplicial depth in 2 dimensions.    
+
+Keywords: simplicial-depth, plot, graphical representation
+
+See also: MVAppsib, MVAsimdepex, MVAsir2data, MVAsirdata, MVAppexample, ppsib, ppsibexample
+
+Author: Zografia Anastasiadou
+
+Submitted: Tue, December 17 2013 by Franziska Schulz

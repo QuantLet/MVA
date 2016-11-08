@@ -1,0 +1,15 @@
+Name of QuantLet: MVAprofil
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots an example of population files.
+
+Keywords: profile, test, hypothesis-testing, population, plot, graphical representation, sas
+
+See also: SMSprofil, SMSprofplasma
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Tue, January 11 2011 by Zografia Anastasiadou
+Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya

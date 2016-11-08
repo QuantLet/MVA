@@ -1,0 +1,15 @@
+Name of QuantLet: MVAaerbh
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Calculates the actual error rate (AER) for price and clusters of Boston houses.
+
+Keywords: actual-error-rate, discrimination, cluster-analysis, estimation, discriminant-analysis, euclidean-distance-matrix, financial
+
+See also: MVAaer, MVAaper, MVAdiscbh, MVAdisfbank, MVAdisnorm
+
+Author: Zografia Anastasiadou
+
+Submitted: Tue, October 28 2014 by Felix Jung
+
+Datafile: bostonh.dat

@@ -1,0 +1,20 @@
+
+Name of QuantLet: MVAlassologit
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Performs a logit model using the Lasso methodology. The estimates become nonzero at a point that means the variables enter the model equation sequentially as the shrinkage parameter increases. The Lasso technique results in variable selection. Finally, the resulting Lasso estimates and predictions are plotted.'
+
+Keywords: estimation, lasso, lasso shrinkage, logistic, logit, regression, forecast, data visualization, plot, graphical representation, financial
+
+See also: MVAlassocontour, MVAlassoregress, SMSlassocar, SMSlassoridge, LCPvariance
+
+Author: Sergey Nasekin, Dedy D. Prastyo
+
+Submitted: Tue, July 29 2014 by Franziska Schulz
+
+Datafiles: carc.dat
+
+Example: 
+- 1: Lasso estimates
+- 2: Lasso predictions

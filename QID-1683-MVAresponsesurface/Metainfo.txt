@@ -1,0 +1,13 @@
+Name of QuantLet: MVAresponsesurface
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots 3D response surfaces and a contour plot for the variable y and the two factors that explain the variation of y via the quadratic response model.
+
+Keywords: 3D, surface, contour, plot, graphical representation, response-model, regression
+
+See also: MVAdrug
+
+Author: Awdesch Melzer
+
+Submitted: Wed, April 04 2012 by Dedy Dwi Prastyo

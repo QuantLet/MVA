@@ -1,0 +1,16 @@
+Name of QuantLet: MVAcorrnorm
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes a two dimensional scatterplot of two correlated normal random variables. 
+
+Keywords: correlation, gaussian, plot, graphical representation, normal, normal-distribution, random, scatterplot, variable
+
+See also: MVAregbank, MVAregpull, MVAscabank45, MVAscabank56, MVAscabank456, MVAscacar, MVAscapull1, MVAscapull2, MVAdraftbank4, MVAdrafthousing, MVAdrafthousingt
+
+Author: Vladimir Georgescu, Jorge Patron, Song Song, Awdesch Melzer
+
+Submitted: Mon, September 15 2014 by Awdesch Melzer
+
+Input: 
+- sig : Covariance matrix

@@ -1,0 +1,21 @@
+Name of QuantLet: MVAnpcafood
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a PCA for the standardized French food data and shows the first two principal components for the individuals and the variables. The normalization corresponds to that of Lebart/Morineau/Fenelon.
+
+Keywords: principal-components, pca, npca, eigenvalues, dimension-reduction, standardization, eigenvalue-decomposition, normalization, plot, graphical representation, data visualization, sas
+
+See also: MVAnpcabanki, MVAnpcahous, MVAnpcahousi, MVAnpcatime, MVAnpcabank, MVAnpcausco, MVAnpcausco2, MVAnpcausco2i, MVAcpcaiv, MVApcabank, MVApcabanki, MVApcabankr, MVApcasimu
+
+Author: Zografia Anastasiadou, Awdesch Melzer
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Mon, September 08 2014 by Franziska Schulz
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: food.dat
+
+Example: 
+- 1: Representation of the individuals.
+- 2: Representation of the variables.

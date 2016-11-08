@@ -1,0 +1,13 @@
+Name of QuantLet: MVAmixture
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots probability density functions and cumulative density functions of Gaussian mixture and Gaussian distributions.
+
+Keywords: gaussian, plot, graphical representation, distribution, pdf, cdf, probability, density, multivariate, heavy-tailed, sas
+
+Author: Wolfgang K. Haerdle
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Thu, February 02 2012 by Dedy Dwi Prastyo
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya

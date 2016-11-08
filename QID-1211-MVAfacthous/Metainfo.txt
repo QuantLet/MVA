@@ -1,0 +1,19 @@
+Name of QuantLet: MVAfacthous
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs factor analysis based on 3 factors for the transformed Boston housing data using three different methods.
+
+Keywords: eigenvalues, factor analysis, likelihood, principal-components, spectral-decomposition, standardize, varimax, plot, graphical representation
+
+Author: Zografia Anastasiadou
+
+Submitted: Fri, October 10 2014 by Sergey Nasekin
+
+Datafiles: bostonh.dat
+
+Example: 
+- 1: Factor analysis for Boston housing data, Maximum Likelihood Method (MLM) without varimax rotation.
+- 2: Factor analysis for Boston housing data, Maximum Likelihood Method (MLM) after varimax rotation.
+- 3: Factor analysis for Boston housing data, Principal Factor Method (PFM) after varimax rotation.
+- 4: Factor analysis for Boston housing data, Principal Component Method (PCM) after varimax rotation.

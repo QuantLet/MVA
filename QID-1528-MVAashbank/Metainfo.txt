@@ -1,0 +1,15 @@
+Name of QuantLet: MVAashbank
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Computes the averaged shifted histogram for the diagonal of all Swiss bank notes.
+
+Keywords: data visualization, graphical representation, plot, histogram, financial
+
+See also: MVAandcur, MVAandcur2, MVAhisbank1, MVAhisbank2
+
+Author: Till Grossmass, Jorge Patron, Vladimir Georgescu, Song Song
+
+Submitted: Mon, September 15 2014 by Awdesch Melzer
+
+Datafiles: bank2.dat

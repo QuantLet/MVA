@@ -1,0 +1,19 @@
+Name of QuantLet: MVAcarrankings
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a monotone transformation to the estimated stimulus utilities of the car example by applying the pool-adjacent-violators (PAV) algorithm.
+
+Keywords: MDS, non-metric-MDS, multi-dimensional, scaling, PAV, violators, Shepard-Kruskal, regression, plot, graphical representation
+
+See also: MVAMDScity1, MVAMDScity2, MVAMDSpooladj, MVAmdscarm, MVAnmdscar1, MVAnmdscar2, MVAnmdscar3, MVAMDSnonmstart, PAVAlgo
+
+Author: Zografia Anastasiadou
+
+Submitted: Thu, September 11 2014 by Franziska Schulz
+
+Input: 
+- x : the reported preference orderings for the car example
+- y : the fitted values of x
+
+Example: Plot of estimated preference orderings vs revealed rankings and PAV fit.

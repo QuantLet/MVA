@@ -1,0 +1,17 @@
+Name of QuantLet: MVAppexample
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Reads the Swiss banknote data and spheres them to run Exploratory Projection Pursuit (EPP) on them. We select n (=50) randomly chosen one-dimensional projections in the six-dimensional space of the data. For each set of projected data the Friedman-Tukey-Index is applied to judge the interestingness of the projection.
+
+Keywords: projection-pursuit, projection, EPP, exploratory-projection-pursuit, plot, graphical representation, Jones and Sibson index, estimation, density, data visualization, financial
+
+See also: MVAppsib, MVAsimdep1, MVAsirdata, MVAsir2data, MVAsimdepex, ppsib, ppsibexample, ppexample, ppf
+
+Author: Awdesch Melzer
+
+Submitted: Wed, April 24 2013 by Maria Osipenko
+
+Datafile: bank2.dat
+
+Example: Projection Pursuit for the Swiss bank notes data. The figure shows the density for the standard, normally distributed data (green) and the estimated densities for the best (red) and the worst (blue) projections found. A dotplot of the projections is also presented. In the lower part we see the values of the Friedman-Tukey-Index.

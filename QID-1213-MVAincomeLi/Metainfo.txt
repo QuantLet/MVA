@@ -1,0 +1,17 @@
+Name of QuantLet: MVAincomeLi
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Hexagon plot between Income and Flat size.
+
+Keywords: plot, graphical representation, hexagon-plot, data visualization, financial, sas
+
+See also: MVAageCom, MVAageIncome
+
+Author: Vinh Hanh Lieu
+Author[SAS]: Svetlana Bykovskaya
+
+Submitted: Thu, August 04 2011 by Awdesch Melzer
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+
+Datafile: allbus.csv

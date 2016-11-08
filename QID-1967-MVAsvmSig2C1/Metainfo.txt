@@ -1,0 +1,15 @@
+Name of QuantLet: MVAsvmSig2C1
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots an SVM classification plot of bankruptcy data set with sigma = 2 and C = 1.
+
+Keywords: SVM, financial, plot, graphical representation, classification, kernel, data visualization
+
+See also: STF2svm01, MVAsvmSig05C200, MVAsvmSig100C1
+
+Author: Dedy D. Prastyo
+
+Submitted: Thu, October 18 2012 by Dedy Dwi Prastyo
+
+Datafile: Bankruptcy100by100noNA.txt
