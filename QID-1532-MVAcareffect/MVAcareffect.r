@@ -1,37 +1,41 @@
 
 # clear variables and close windows
-rm(list = ls(all = TRUE))
+rm(list=ls(all=TRUE))
 graphics.off()
 
-# Extract factors and build simple regression model for testing the W and D on effect of M
-data  = read.table("carc.dat")
-y     = data[, 2]
-x1    = data[, 8]
-x2    = data[, 11]
-x     = cbind(x1, x2)
-fit1  = lm(y ~ x)
-summary(fit1)
+# load data
+load("carc.rda")
 
-# Adding the origin factor into the regression model to check the effect
-x3    = data[, 13]
-xx    = cbind(x, x3)
-fit2  = lm(y ~ xx)
-summary(fit2)
+carc=carc[,c("M","W","D","C","P")]
+names(carc)=c("Mileage","Weight","Displacement","Origin","Price")
 
-# Checking whether different levels have different effects on the mileage
-xxx   = data[order(data[, 13]), ]
+attach(carc)
+opar=par(mfrow=c(2,2))
+plot(log(Mileage)~log(Weight))
+plot(log(Mileage)~log(Displacement))
+plot(log(Mileage)~Origin)
+plot(log(Displacement)~log(Weight))
 
-# Level: c = 1
-y1    = xxx[1:52, ]
-fit3  = lm(y1[, 2] ~ y1[, 8] + y1[, 11])
-summary(fit3)
+# reasonable model
+summary(lm1<-lm(log(Mileage)~log(Weight)+log(Displacement)+Origin))
+# model without origin
+lm2<-lm(log(Mileage)~log(Weight)+log(Displacement))
+# test whether origin is significant
+anova(lm1,lm2)
 
-# Level: c = 2
-y2    = xxx[53:63, ]
-fit4  = lm(y2[, 2] ~ y2[, 8] + y2[, 11])
-summary(fit4)
+dev.new()
+plot(lm1)
 
-# Level: c = 3
-y3    = xxx[63:74, ]
-fit5  = lm(y3[, 2] ~ y3[, 8] + y3[, 11])
-summary(fit5)
+summary(lm3<-lm(log(Mileage)~log(Weight)+Origin))
+
+dev.new()
+par(mfrow=c(1,1))
+plot(log(Mileage)~log(Weight),pch=as.numeric(Origin)-(Origin=="US")-2*(Origin=="Europe"),col=as.numeric(Origin)+1)
+oo=order(carc$Weight)
+c3=coef(lm3)
+abline(c(c3[1],c3[2]),col=2) # US
+abline(c(c3[1]+c3[3],c3[2]),col=3,lty=2) # Japan
+abline(c(c3[1]+c3[4],c3[2]),col=4,lty=3) # Europe
+
+par(opar)
+detach(carc)
