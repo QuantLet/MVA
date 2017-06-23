@@ -2,12 +2,14 @@ Name of QuantLet: MVAcareffect
 
 Published in: Applied Multivariate Statistical Analysis
 
-Description: Computes the effect of weight and the displacement on the mileage. Uses linear regression to extract the coefficients of the regressors. Additionally, the program checks whether the origin of the car has an effect on the response while considering different levels.
+Description: 'Computes a linear regression of mileage on weight and displacement for car data set'
 
-Keywords: regression, multivariate, linear, linear-regression, linear-model 
+Keywords: 'linear model, linear regression, least squares, R-squared, summary, F test, F-statistic, F-test, lm'
 
-Author: Mengmeng Guo
+Author:   Zdenek Hlavka
+Author[Matlab]:   Janek Berger
 
-Submitted: Tue, February 07 2012 by Dedy Dwi Prastyo
+Submitted: Wed, June 07 2017 by Petra Burdejova
 
-Datafile: carc.dat
+Datafile[R]: carc.rda
+Datafile[Matlab]: carc.txt
