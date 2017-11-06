@@ -1,6 +1,6 @@
 Name of QuantLet: MVAdrug
 
-Published in: Applied Multivariate Statistical Analysis test
+Published in: Applied Multivariate Statistical Analysis
 
 Description: Produces a three-way contingency table for the drug consumption data from Everitt and Dunn.
 
