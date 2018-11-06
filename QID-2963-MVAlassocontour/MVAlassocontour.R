@@ -21,16 +21,16 @@ if (orthonorm == 1) {
         level = 0.965, npoints = 500)
     plot(-3:10, -3:10, type = "n", xlim = c(-4, 13), ylim = c(-4, 13), xlab = expression(beta[1]), 
         ylab = expression(beta[2]), main = "Lasso solution")
-    axis(1, -4:1:13, labels = TRUE)
-    axis(2, -4:1:13, labels = TRUE)
+    axis(1, -4:13, labels = TRUE)
+    axis(2, -4:13, labels = TRUE)
 } else if (orthonorm == 0) {
     corrmat = matrix(c(1, 0.5, 0.5, 1), nrow = 2, ncol = 2)
     ellip1 = ellipse(x = corrmat, scale = c(2, 2), centre = c(6, 7), level = 0.965, 
         npoints = 500)
     plot(-3:10, -3:10, type = "n", xlim = c(-4, 12), ylim = c(-4, 12), xlab = expression(beta[1]), 
         ylab = expression(beta[2]), main = "Lasso solution")
-    axis(1, -4:1:12, labels = TRUE)
-    axis(2, -4:1:12, labels = TRUE)
+    axis(1, -4:12, labels = TRUE)
+    axis(2, -4:12, labels = TRUE)
 } else {
     paste("Give either 1 or 0")
 }
