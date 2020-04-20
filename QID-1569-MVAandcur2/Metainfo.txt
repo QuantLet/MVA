@@ -8,8 +8,12 @@ Keywords: Andrews curves, descriptive methods, normalization, scaling, financial
 
 See also:  MVAandcur, MVAparcoo1
 
-Author: Wolfgang K. Haerdle
+Author[R]: Wolfgang K. Haerdle
 
-Submitted: Tue, September 09 2014 by Awdesch Melzer
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
+Submitted[R]: Tue, September 09 2014 by Awdesch Melzer
+
+Submitted[Python]: 'Sun, April 5 2020 by Liudmila Gorkun-Voevoda'
 
 Datafiles: bank2.dat
