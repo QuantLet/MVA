@@ -10,6 +10,7 @@ See also: MVAnpcabanki, MVAnpcabank, MVAnpcahousi, MVAnpcatime, MVAnpcafood, MVA
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Submitted: Tue, July 01 2014 by Petra Burdejova
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
