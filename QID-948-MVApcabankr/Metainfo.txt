@@ -13,5 +13,6 @@ Author[SAS]: Svetlana Bykovskaya
 
 Submitted: Tue, July 01 2014 by Petra Burdejova
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'
 
 Datafile: bank2.dat
