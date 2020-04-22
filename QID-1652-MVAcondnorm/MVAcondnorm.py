@@ -37,8 +37,6 @@ ax.yaxis.pane.fill = False
 ax.zaxis.pane.fill = False
 
 plt.title("Conditional Normal Densities f(X2|X1)")
-
-plt.savefig("MVAcondnorm_python.png")
     
 plt.show()
 
