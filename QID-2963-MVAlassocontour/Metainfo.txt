@@ -11,7 +11,11 @@ See also: LCPvariance, MVAlassologit, MVAlassoregress, SMSlassocar, SMSlassoridg
 
 Author: Sergey Nasekin
 
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
 Submitted: Sun, May 03 2015 by Awdesch Melzer
+
+Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'
 
 Input: 
 - s : lasso tuning parameter 

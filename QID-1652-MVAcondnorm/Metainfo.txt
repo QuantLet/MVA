@@ -8,5 +8,8 @@ Keywords: conditional density, conditional distribution, conditional mean, densi
 
 Author: Maria Osipenko, Franziska Schulz
 
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
 Submitted: Mon, February 09 2015 by Lukas Borke
 
+Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'

@@ -11,7 +11,11 @@ See also: MVAboxbank6, MVAdraftbank4, MVAscabank45, MVAscabank456, SPMdenepatri,
 
 Author: Song Song
 
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
 Submitted: Tue, September 09 2014 by Awdesch Melzer
+
+Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'
 
 Datafiles: bank2.dat
 

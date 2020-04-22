@@ -10,7 +10,11 @@ See also: MVAnpcabanki, MVAnpcabank, MVAnpcahousi, MVAnpcatime, MVAnpcafood, MVA
 
 Author: Zografia Anastasiadou, Maria Osipenko
 
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
 Submitted: Tue, July 01 2014 by Petra Burdejova
+
+Submitted[Python]: 'Sun, April 5 2020 by Liudmila Gorkun-Voevoda'
 
 Example: 
 - 1: Direction of first component for simulated data.

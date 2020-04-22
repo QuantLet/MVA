@@ -14,7 +14,11 @@ See also: MVAlassocontour, MVAlassologit, SMSlassocar, SMSlassoridge, LCPvarianc
 
 Author: Sergey Nasekin, Dedy D. Prastyo
 
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
 Submitted: Tue, September 16 2014 by Sergey Nasekin
+
+Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'
 
 Datafiles: carc.dat
 

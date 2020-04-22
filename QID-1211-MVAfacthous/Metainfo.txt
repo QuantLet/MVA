@@ -8,7 +8,11 @@ Keywords: eigenvalues, factor analysis, likelihood, principal-components, spectr
 
 Author: Zografia Anastasiadou
 
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
 Submitted: Fri, October 10 2014 by Sergey Nasekin
+
+Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'
 
 Datafiles: bostonh.dat
 

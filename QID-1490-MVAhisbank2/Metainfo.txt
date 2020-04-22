@@ -10,9 +10,11 @@ See also: MVAhisbank1
 
 Author: Song Song, Vladimir Georgescu, Jorge Patron, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Submitted: Tue, September 09 2014 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'
 
 Datafiles: bank2.dat
 
