@@ -10,5 +10,9 @@ See also: SPMdenepatri, SPMdensity, SPMkdeconstruct, SPMkernel
 
 Author: Andrija Mihoci, Awdesch Melzer
 
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
 Submitted: Tue, September 09 2014 by Awdesch Melzer
+
+Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'
 
