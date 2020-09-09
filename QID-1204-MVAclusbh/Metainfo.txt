@@ -10,9 +10,11 @@ See also: MVAclus8p, MVAclusbank, MVAspecclust, MVAclusfood, MVAclususcrime, SMS
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Thu, September 11 2014 by Franziska Schulz
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, September 9 2020 by Liudmila Gorkun-Voevoda
 
 Datafile: bostonh.dat
 
