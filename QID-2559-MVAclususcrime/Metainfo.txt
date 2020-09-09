@@ -10,9 +10,11 @@ See also: MVAclus8p, MVAclusbank, MVAspecclust, MVAclusfood, MVAclusbh, SMSclus8
 
 Author: Simon Trimborn, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Wed, October 01 2014 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, September 9 2020 by Liudmila Gorkun-Voevoda
 
 Datafile: uscrime.rda
 
