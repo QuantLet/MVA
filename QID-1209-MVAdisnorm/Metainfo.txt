@@ -9,7 +9,9 @@ Keywords: discrimination, estimation, discriminant-analysis, maximum-likelihood,
 See also: MVAaer, MVAaper, MVAaerbh, MVAdisfbank, MVAdiscbh
 
 Author: Zografia Anastasiadou, Awdesch Melzer
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Thu, May 10 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Wed, September 9 2020 by Liudmila Gorkun-Voevoda
 
 Example: Maximum likelihood rule for 2 normal distributed samples.

@@ -10,9 +10,11 @@ See also: MVAaer, MVAaper, MVAaerbh, MVAdiscbh, MVAdisnorm
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Tue, January 11 2011 by Zografia Anastasiadou
 Submitted[SAS]: Wen, March 30 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, September 9 2020 by Liudmila Gorkun-Voevoda
 
 Datafile: bank2.dat
 

@@ -10,9 +10,11 @@ See also: MVAclus8p, MVAclusfood, MVAspecclust, MVAclusbh, MVAclususcrime, SMScl
 
 Author: Zografia Anastasiadou, Simon Trimborn
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Thu, August 21 2014 by Petra Burdejova
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, September 9 2020 by Liudmila Gorkun-Voevoda
 
 Datafile: bank2.dat
 

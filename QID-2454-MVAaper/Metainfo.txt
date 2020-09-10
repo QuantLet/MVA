@@ -10,8 +10,10 @@ See also: MVAaer, MVAaerbh, MVAdiscbh, MVAdisfbank, MVAdisnorm
 
 Author: Wolfgang K. Haerdle, Vladimir Georgescu, Song Song, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Thu, June 05 2014 by Sergey Nasekin
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, September 9 2020 by Liudmila Gorkun-Voevoda
 
 Datafile: bank2.dat

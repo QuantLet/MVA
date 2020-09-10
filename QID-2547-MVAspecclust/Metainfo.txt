@@ -9,8 +9,10 @@ Keywords: cluster-analysis, spectral, plot, graphical representation, distance, 
 See also: MVAclus8p, MVAclusbank, MVAclusbh, MVAclusfood, MVAclususcrime, SMSclus8p, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Piotr Majer
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Sun, September 07 2014 by Awdesch Melzer
+Submitted[Python]: Wed, September 9 2020 by Liudmila Gorkun-Voevoda
 
 Datafile: data_example.dat
 
