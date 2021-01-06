@@ -10,9 +10,11 @@ See also: MVAnpcabanki, MVAnpcahous, MVAnpcahousi, MVAnpcatime, MVAnpcabank, MVA
 
 Author: Zografia Anastasiadou, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Submitted: Mon, September 08 2014 by Franziska Schulz
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: 'Wed, January 6 2021 by Liudmila Gorkun-Voevoda'
 
 Datafile: food.dat
 
