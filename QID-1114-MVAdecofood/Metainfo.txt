@@ -8,9 +8,11 @@ Keywords: decomposition, eigenvalues, eigenvectors, spectral, spectral-decomposi
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Submitted: Fri, April 11 2014 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: 'Wed, January 6 2021 by Liudmila Gorkun-Voevoda'
 
 Datafiles: food.dat
 

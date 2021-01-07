@@ -10,8 +10,10 @@ See also: MVAMDScity1, MVAMDScity2, MVAMDSnonmstart, MVAMDSpooladj, MVAmdscarm, 
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Tue, January 11 2011 by Zografia Anastasiadou
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, January 6 2021 by Liudmila Gorkun-Voevoda
 
 Example: First iteration for Ferrari.

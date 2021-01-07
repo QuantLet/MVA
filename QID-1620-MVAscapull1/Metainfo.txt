@@ -10,8 +10,10 @@ See also: MVAcorrnorm, MVAregbank, MVAregpull, MVAscabank45, MVAscabank56, MVAsc
 
 Author: Vladimir Georgescu, Jorge Patron, Song Song, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Submitted: Mon, September 15 2014 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: 'Wed, January 6 2021 by Liudmila Gorkun-Voevoda'
 
 Datafile: pullover.dat

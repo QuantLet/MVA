@@ -10,6 +10,8 @@ See also: MVAcorrbac, MVAcorrEyeHair, MVAcorrcrime, MVAcorrjourn, SMScorrcrime, 
 
 Author: Andrija Mihoci, Xiaofeng Cao
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Mon, October 17 2011 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, January 6 2021 by Liudmila Gorkun-Voevoda

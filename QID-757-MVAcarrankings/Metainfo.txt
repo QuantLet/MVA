@@ -9,8 +9,10 @@ Keywords: MDS, non-metric-MDS, multi-dimensional, scaling, PAV, violators, Shepa
 See also: MVAMDScity1, MVAMDScity2, MVAMDSpooladj, MVAmdscarm, MVAnmdscar1, MVAnmdscar2, MVAnmdscar3, MVAMDSnonmstart, PAVAlgo
 
 Author: Zografia Anastasiadou
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Thu, September 11 2014 by Franziska Schulz
+Submitted[Python]: Wed, January 6 2021 by Liudmila Gorkun-Voevoda
 
 Input: 
 - x : the reported preference orderings for the car example

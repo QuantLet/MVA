@@ -11,8 +11,10 @@ See also: SMSfactbank, SMSfactfood, SMSfacthletic, SMSfactsigma, SMSfactushealth
 
 Author: Zografia Anastasiadou, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Wed, June 04 2014 by Felix Jung
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, January 6 2021 by Liudmila Gorkun-Voevoda
 
 Datafiles: carmean.dat, carmean_sas.dat

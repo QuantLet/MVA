@@ -10,8 +10,10 @@ See also: MVAcorrCar, MVAcorrEyeHair, MVAcorrbac, MVAcorrcrime, SMScorrcrime, SM
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Tue, May 10 2011 by Zografia Anastasiadou
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+Submitted[Python]: Wed, January 6 2021 by Liudmila Gorkun-Voevoda
 
 Datafile: journaux.dat

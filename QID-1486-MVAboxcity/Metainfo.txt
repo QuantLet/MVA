@@ -10,10 +10,12 @@ See also: MVAboxbank1, MVAboxbank6, MVAboxbhd, MVAboxcar
 
 Author: Jorge Patron, Vladimir Georgescu, Song Song
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Submitted: Tue, September 09 2014 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
 Submitted[Matlab]: Mon, November 14 2016 by Lily Medina
+Submitted[Python]: 'Wed, January 6 2021 by Liudmila Gorkun-Voevoda'
 
 
 Datafiles: cities.txt
