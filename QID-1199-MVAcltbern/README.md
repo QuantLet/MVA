@@ -4,21 +4,29 @@
 
 ```yaml
 Name of QuantLet : MVAcltbern
+
 Published in : Applied Multivariate Statistical Analysis
+
 Description : 'Illustrates the (univariate) Central Limit Theorem (CLT). n*1000 sets of
 n-dimensional Bernoulli samples are generated and used to approximate the distribution of t =
 sqrt(n)*(mean(x)-mu)/sigma -> N(0,1). The estimated density (blue) of t is shown together with the
 standard normal (red).'
+
 Keywords : 'plot, graphical representation, bernoulli, normal, CLT, density, distribution,
 standard-normal, asymptotic'
+
 See also : MVAgausscauchy, MVAcltbern2, MVAcauchy, MVAtdis
+
 Author : Wolfgang K. Haerdle
 Author [Python]: Gonzalo Garcia
+
 Submitted : Wed, December 07 2011 by Dedy Dwi Prastyo
 Submitted [Python]: Wed, January 20 2021 by Gonzalo Garcia
+
 Examples [R]: 
 - 1: n=5
 - 2: n=35
+
 Examples [Python]: 
 - 1: n=10
 - 2: n=35
