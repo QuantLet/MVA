@@ -24,9 +24,12 @@ Examples [Python]:
 - 2: n=35
 ```
 
+
 ![Picture1](MVAcltbern_1-1.png)
 
+
 ![Picture2](MVAcltbern_2-1.png)
+
 
 
 ### R Code:
@@ -53,9 +56,12 @@ lines(bden$x, dnorm(bden$x), col = "red3", lty = 1, lwd = 4)
 title(paste("Asymptotic Distribution, n =", n)) 
 ```
 
+
 ![Picture3](MVAcltbern_1-1_py.png)
 
+
 ![Picture4](MVAcltbern_2-1_py.png)
+
 
 ### Python Code:
 ```python
