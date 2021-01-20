@@ -25,8 +25,12 @@ Author [Python]: Gonzalo Garcia
 Submitted : Wed, December 07 2011 by Dedy Dwi Prastyo
 Submitted [Python]: Wed, January 20 2021 by Gonzalo Garcia
 
-Example: 
+Examples [R]: 
 - 1: n=5
+- 2: n=35
+
+Examples [Python]: 
+- 1: n=10
 - 2: n=35
 
 ```
