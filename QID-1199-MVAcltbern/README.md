@@ -20,6 +20,7 @@ standard-normal, asymptotic'
 See also : MVAgausscauchy, MVAcltbern2, MVAcauchy, MVAtdis
 
 Author : Wolfgang K. Haerdle
+Author (Python code) : Gonzalo Garcia
 
 Submitted : Wed, December 07 2011 by Dedy Dwi Prastyo
 
