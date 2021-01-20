@@ -23,7 +23,7 @@ Author : Wolfgang K. Haerdle
 Author [Python]: Gonzalo Garcia
 
 Submitted : Wed, December 07 2011 by Dedy Dwi Prastyo
-Submitted [Python]: Wed, January 20 2021 by Dedy Dwi Prastyo
+Submitted [Python]: Wed, January 20 2021 by Gonzalo Garcia
 
 Example: 
 - 1: n=5
