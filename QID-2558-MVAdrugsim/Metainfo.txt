@@ -10,6 +10,10 @@ See also: MVAcarsim, SMScarsim, MMSTATassociation, MVAdrug, MMSTAThelper_functio
 
 Author: Awdesch Melzer, Simon Trimborn
 
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+
 Submitted: Wed, October 01 2014 by Awdesch Melzer
+
+Submitted[Python]: 'Fri, April 16 2021 by Liudmila Gorkun-Voevoda'
 
 Output: 'A three way contingency table: top table for men and bottom table for women.'
