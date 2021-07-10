@@ -11,7 +11,9 @@ See also: MVAMDScity1, MVAMDScity2, MVAMDSnonmstart, MVAMDSpooladj, MVAmdscarm, 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
 Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
+Author[Matlab]: Wolfgang Haerdle, Vladimir Georgescu, Song Song
 
 Submitted: Thu, November 06 2014 by Sergey Nasekin
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
 Submitted[Python]: Wed, January 6 2021 by Liudmila Gorkun-Voevoda
+Submitted[Matlab]: Mon, December 19 by Piedad Castro
