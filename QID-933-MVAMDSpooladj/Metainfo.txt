@@ -10,6 +10,8 @@ See also: MVAMDScity1, MVAMDScity2, MVAMDSnonmstart, MVAmdscarm, MVAnmdscar1, MV
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Aurhor[Matlab]: Wolfgang Haerdle, Vladimir Georgescu, Jorge Patron, Song Song
 
 Submitted: Tue, October 28 2014 by Felix Jung
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+Submitted[Matlab]: Mon, December 19 by Piedad Castro
