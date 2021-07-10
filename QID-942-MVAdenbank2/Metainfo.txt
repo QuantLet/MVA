@@ -16,6 +16,7 @@ Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 Submitted: Tue, September 09 2014 by Awdesch Melzer
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
 Submitted[Python]: 'Wed, January 6 2021 by Liudmila Gorkun-Voevoda'
+Submitted[Matlab]: Tue, November 22 2016 by Lily Medina
 
 Datafiles: bank2.dat
 
