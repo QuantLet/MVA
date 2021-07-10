@@ -11,11 +11,16 @@ See also: MVAnpcabanki, MVAnpcabank, MVAnpcahousi, MVAnpcatime, MVAnpcafood, MVA
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
 Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+Author[Matlab]: Wolfgang Haerdle, Jorge Patron, Vladimir Georgescu, Song Song
 
 Submitted: Mon, June 30 2014 by Franziska Schulz
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
 Submitted[Python]: 'Wed, April 22 2020 by Liudmila Gorkun-Voevoda'
+Submitted[Matlab]: Mon, December 12 2016 by Piedad Castro
 
 Datafile: bank2.dat
 
 Example: Principal components of the bank data.
+
+Note: 'Matlab and SAS decompose matrices differently than R, and therefore some 
+      of the eigenvectors may have different signs.'
