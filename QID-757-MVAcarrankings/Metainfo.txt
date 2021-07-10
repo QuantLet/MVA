@@ -10,12 +10,16 @@ See also: MVAMDScity1, MVAMDScity2, MVAMDSpooladj, MVAmdscarm, MVAnmdscar1, MVAn
 
 Author: Zografia Anastasiadou
 Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
+Author[Matlab]: Awdesch Melzer
 
 Submitted: Thu, September 11 2014 by Franziska Schulz
 Submitted[Python]: Wed, January 6 2021 by Liudmila Gorkun-Voevoda
+Submitted[Matlab]: Mon, December 16 by Piedad Castro
 
 Input: 
 - x : the reported preference orderings for the car example
 - y : the fitted values of x
 
 Example: Plot of estimated preference orderings vs revealed rankings and PAV fit.
+
+Note: The matlab version uses the function pava that you can find in the quantlet with the same name.
