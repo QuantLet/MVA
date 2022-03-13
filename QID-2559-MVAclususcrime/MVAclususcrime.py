@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-data = pd.read_csv("uscrime_python.csv", index_col = 0)
+data = pd.read_csv("uscrime.csv", index_col = 0)
 
 X = data.iloc[:, 2:9]
 
