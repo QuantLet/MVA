@@ -21,7 +21,7 @@ kernel = st.gaussian_kde(np.array([xx.iloc[:,0], xx.iloc[:,1]]), bw_method=1.06 
 f = np.reshape(kernel(positions).T, x_grid.shape)
 
 fig, ax = plt.subplots(figsize=(10,10))
-ax.contourf(x_grid, y_grid, f, cmap="jet")
+ax.contourf(x_grid, y_grid, f, cmap="Reds")
 ax.imshow(np.rot90(f), cmap='jet', extent=[x_min, x_max, y_min, y_max])
 g = ax.contour(x_grid, y_grid, f, colors='k')
 ax.clabel(g, colors="black")
