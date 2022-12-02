@@ -17,5 +17,6 @@ pd.plotting.parallel_coordinates(y, "c", color = ["black", "r"])
 ax.legend().set_visible(False)
 plt.title("Parallel coordinates plot (Bank data)")
 
+plt.savefig('MVAparcoo2_python.png', format='png', dpi=600, transparent=True)
 plt.show()
 

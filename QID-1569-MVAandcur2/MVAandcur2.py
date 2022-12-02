@@ -38,5 +38,6 @@ for i in range(5, 10):
 plt.title("Andrews curves (Bank data)")
 ax.set_xticklabels(list(reversed(list(range(0, 8)))))
 
+plt.savefig('MVAandcur2_python.png', format='png', dpi=600, transparent=True)
 plt.show()
 

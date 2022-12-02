@@ -37,5 +37,6 @@ for i in range(5, 10):
 
 plt.title("Andrews curves (Bank data)")
 
+plt.savefig('MVAandcur_python.png', format='png', dpi=600, transparent=True)
 plt.show()
 
