@@ -9,7 +9,9 @@ Keywords: Flury faces, financial, data visualization, graphical representation, 
 See also: MVAfacebank50
 
 Author: Julia Wandke
+Author[Python]: 'Raul Cristian Bag'
 
 Submitted: Tue, September 09 2014 by Awdesch Melzer
+Submitted[Python]: 'Fri, December 2 2022 by Raul Cristian Bag'
 
 Datafiles: bank2.dat

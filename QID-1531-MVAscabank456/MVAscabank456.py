@@ -39,5 +39,6 @@ ax.xaxis.pane.fill = False
 ax.yaxis.pane.fill = False
 ax.zaxis.pane.fill = False
 
+plt.savefig('MVAscabank456_python.png', format='png', dpi=600, transparent=True)
 plt.show()
 
