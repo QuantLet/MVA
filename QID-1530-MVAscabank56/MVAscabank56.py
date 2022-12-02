@@ -17,5 +17,6 @@ plt.xlim(7, 13)
 plt.ylim(137.5, 142.5)
 plt.yticks(list(np.arange(137.5, 143, 1)))
 plt.title("Swiss bank notes")
-plt.show()
 
+plt.savefig('MVAscabank56_python.png', format='png', dpi=600, transparent=True)
+plt.show()

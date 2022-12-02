@@ -30,5 +30,7 @@ for i in range(0, 4):
             axes[i,j].scatter(x.iloc[:,i+2], x.iloc[:,j+2], c = "blue")
 
 fig.tight_layout()
+
+plt.savefig('MVAdraftbank4_python.png', format='png', dpi=600, transparent=True)
 plt.show()
 
