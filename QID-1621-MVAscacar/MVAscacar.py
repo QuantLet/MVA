@@ -17,4 +17,5 @@ ax.scatter(x[x.iloc[:, 12] == 3].iloc[:, 1], x[x.iloc[:, 12] == 3].iloc[:, 7],
 plt.xlabel("Mileage (X2)", fontsize = 14)
 plt.ylabel("Weight (X8)", fontsize = 14)
 plt.title("Car Data", fontsize = 14)
+plt.savefig('MVAscacar_python.png', format='png', dpi=600, transparent=True)
 plt.show()
