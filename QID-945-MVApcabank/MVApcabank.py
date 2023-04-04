@@ -45,5 +45,6 @@ axes[1, 1].set_ylabel("Lambda")
 
 fig.tight_layout()
 
+plt.savefig('MVApcabank-1_python.png', format='png', dpi=600, transparent=True)
 plt.show()
 

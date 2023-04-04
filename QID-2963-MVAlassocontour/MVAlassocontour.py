@@ -52,5 +52,7 @@ ax.set_title("Lasso solution")
 ax.set_xlabel(r"$\beta_1$", fontsize = 12)
 ax.set_ylabel(r"$\beta_2$", fontsize = 12)
 
+
+plt.savefig('MVAlassocontour-1_python.png', format='png', dpi=600, transparent=True)
 plt.show()
 
