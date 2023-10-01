@@ -1,0 +1,13 @@
+Name of QuantLet: MVAllebh
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: LLE applied to the Boston housing data computed for different nearest neighbors.
+
+Keywords: Boston-housing, LLE, plot, python, cluster
+
+See also: MVAllesimu, MVAlleswissroll
+
+Author: Matthias Fengler, Tim Dass
+
+Datafile: bostonh.dat

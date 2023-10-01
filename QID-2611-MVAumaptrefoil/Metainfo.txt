@@ -1,0 +1,11 @@
+Name of QuantLet: MVAumaptrefoil
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'UMAP embedding of the trefoil data set with k = 15 neighbors.'
+
+Keywords: UMAP, trefoil, plot, python, simulated
+
+See also: MVAtumap8km1, MVAumap8km2, MVAumapbank, MVAumapsimplcomplex, MVAumapsimplex
+
+Author: Matthias Fengler, Tim Dass

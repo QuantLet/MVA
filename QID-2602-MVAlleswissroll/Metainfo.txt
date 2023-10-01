@@ -1,0 +1,11 @@
+Name of QuantLet: MVAlleswissroll
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: The Swiss roll unfolded by means of LLE for different nearest neighbors.
+
+Keywords: simulated, LLE, plot, python, cluster
+
+See also: MVAllebh, MVAllesimu
+
+Author: Matthias Fengler, Tim Dass

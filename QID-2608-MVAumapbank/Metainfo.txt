@@ -1,0 +1,13 @@
+Name of QuantLet: MVAumapbank
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: UMAP embeddings of the banknotes data set. k denotes the number of nearest neighbors considered.
+
+Keywords: UMAP, banknotes, plot, python, cluster
+
+See also: MVAtumap8km1, MVAumap8km2, MVAumapsimplcomplex, MVAumapsimplex, MVAumaptrefoil
+
+Author: Matthias Fengler, Tim Dass
+
+Datafile: bank2.dat
