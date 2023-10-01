@@ -1,0 +1,11 @@
+Name of QuantLet: MVAumap8km1
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: A fixed radius cover and the associated simplicial complex constructed from the intersections of the fixed radius balls.
+
+Keywords: UMAP, simplicial complex, plot, python, cluster
+
+See also: MVAtumap8km2, MVAumapbank, MVAumapsimplcomplex, MVAumapsimplex, MVAumaptrefoil
+
+Author: Matthias Fengler, Tim Dass

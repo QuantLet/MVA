@@ -1,0 +1,11 @@
+Name of QuantLet: MVAumapsimplex
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Some simplices: the 0-simplex (point or vertex), the 1-simplex (line segment or edge), the 2-simplex (triangle), and the 3-simplex, the tetrahedron.'
+
+Keywords: UMAP, simplicial complex, plot, python, simulated
+
+See also: MVAtumap8km1, MVAumap8km2, MVAumapbank, MVAumapsimplcomplex, MVAumaptrefoil
+
+Author: Matthias Fengler, Tim Dass

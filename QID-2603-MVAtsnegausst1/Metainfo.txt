@@ -1,0 +1,11 @@
+Name of QuantLet: MVAtsnegausst1
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'The tail of the standard normal (Gaussian) density and the tail of the density of the t(1)-distribution.'
+
+Keywords: 't-SNE', Gaussian, tail, plot, python, 't-distribution'
+
+See also: MVAtsnetrefoil, MVAtsneqtlkeywords
+
+Author: Matthias Fengler, Tim Dass

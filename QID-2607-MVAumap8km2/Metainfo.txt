@@ -1,0 +1,11 @@
+Name of QuantLet: MVAumap8km2
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Open cover of the eight points and the associated UMAP simplicial complex. UMAP embedding of the eight points.
+
+Keywords: UMAP, simplicial complex, plot, python, cluster
+
+See also: MVAtumap8km1, MVAumapbank, MVAumapsimplcomplex, MVAumapsimplex, MVAumaptrefoil
+
+Author: Matthias Fengler, Tim Dass

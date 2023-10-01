@@ -1,0 +1,11 @@
+Name of QuantLet: MVAtsnetrefoil
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'PCA embedding and t-SNE embedding of the trefoil knot data set with a Perp = 25.'
+
+Keywords: trefoil, 't-SNE', plot, python, PCA
+
+See also: MVAtsnegausst1, MVAtsneqtlkeywords
+
+Author: Matthias Fengler, Tim Dass

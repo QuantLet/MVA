@@ -1,0 +1,11 @@
+Name of QuantLet: MVAllesimu
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: A simulated one-dimensional manifold in the plane and the attempts of projecting the data to a line, first by PCA and then by means of LLE
+
+Keywords: simulated, LLE, plot, python, cluster
+
+See also: MVAllebh, MVAlleswissroll
+
+Author: Matthias Fengler, Tim Dass

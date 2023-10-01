@@ -1,0 +1,11 @@
+Name of QuantLet: MVAumapsimplcomplex
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Examples and a non-example of simplicial complexes.'
+
+Keywords: UMAP, simplicial complex, plot, python, simulated
+
+See also: MVAtumap8km1, MVAumap8km2, MVAumapbank, MVAumapsimplex, MVAumaptrefoil
+
+Author: Matthias Fengler, Tim Dass
