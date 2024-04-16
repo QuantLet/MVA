@@ -9,5 +9,7 @@ Keywords: pdf, cdf, hyperbolic, plot, graphical representation, multivariate, de
 See also: MVAghdistail, MVAghadatail
 
 Author: Wolfgang K. Haerdle
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Sun, January 29 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Tue, April 16 2024 by Tim Dass

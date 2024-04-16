@@ -10,8 +10,10 @@ See also: MVAlinreg2bh, MMSTATlinreg, MVAregbank, MVAregpull, MVAregzoom, MVAsim
 
 Author: Till Grossmass, Jorge Patron, Vladimir Georgescu, Song Song, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, February 29 2012 by Dedy Dwi Prastyo
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafile: bostonh.dat

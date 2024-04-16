@@ -9,8 +9,10 @@ Keywords: correlation, gaussian, plot, graphical representation, normal, normal-
 See also: MVAregbank, MVAregpull, MVAscabank45, MVAscabank56, MVAscabank456, MVAscacar, MVAscapull1, MVAscapull2, MVAdraftbank4, MVAdrafthousing, MVAdrafthousingt
 
 Author: Vladimir Georgescu, Jorge Patron, Song Song, Awdesch Melzer
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Mon, September 15 2014 by Awdesch Melzer
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Input: 
 - sig : Covariance matrix

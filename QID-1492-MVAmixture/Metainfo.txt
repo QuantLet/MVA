@@ -8,6 +8,8 @@ Keywords: gaussian, plot, graphical representation, distribution, pdf, cdf, prob
 
 Author: Wolfgang K. Haerdle
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Thu, February 02 2012 by Dedy Dwi Prastyo
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Tue, April 16 2024 by Tim Dass

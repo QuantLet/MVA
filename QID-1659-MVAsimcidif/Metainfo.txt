@@ -7,7 +7,9 @@ Description: Tests the equality of 2 groups of US Company data and computes the 
 Keywords: F-statistic, critical-value, confidence-interval, mean, covariance, hypothesis-testing, test, financial
 
 Author: Awdesch Melzer, Vladimir Georgescu, Song Song
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, March 14 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafile: uscomp2.dat

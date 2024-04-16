@@ -10,6 +10,10 @@ See also: MVApcphousing, MVApcp1, MVApcp2, MVApcp3, MVApcp5, MVApcp6, MVApcp7, M
 
 Author: Ji Cao, Vladimir Georgescu, Awdesch Melzer, Song Song
 
+Author[Python]: 'Matthias Fengler, Tim Dass'
+
 Submitted: Tue, September 09 2014 by Awdesch Melzer
+
+Submitted[Python]: 'Tue, April 16 2024 by Tim Dass'
 
 Datafile: carc.txt

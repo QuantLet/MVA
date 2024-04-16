@@ -9,7 +9,9 @@ Keywords: standard-normal, multivariate, plot, graphical representation, edf, cd
 See also: MVAedfbootstrap
 
 Author: Vladimir Georgescu, Jorge Patron, Song Song, Awdesch Melzer
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, March 14 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Example: Shows the EDF and CDF for the empirical and theoretical distribution with n=100 and n=1000.

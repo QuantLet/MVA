@@ -9,5 +9,7 @@ Keywords: contour, copula, gumbel, plot, graphical representation
 See also: MVAsample1000
 
 Author: Song Song
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Thu, August 04 2011 by Awdesch Melzer
+Submitted[Python]: Tue, April 16 2024 by Tim Dass

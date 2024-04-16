@@ -9,5 +9,7 @@ Keywords: plot, graphical representation, cauchy, normal, pdf, density, distribu
 See also: MVAcltbern, MVAcltbern2, MVAcauchy, MVAtdis
 
 Author: Wolfgang K. Haerdle
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, September 07 2011 by Awdesch Melzer
+Submitted[Python]: Tue, April 16 2024 by Tim Dass

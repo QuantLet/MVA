@@ -8,8 +8,10 @@ Keywords: MLE, linear regression, regression, linear, financial, hypothesis-test
 
 Author: Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, March 14 2012 by Dedy Dwi Prastyo
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafile: pullover.dat
