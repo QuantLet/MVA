@@ -9,5 +9,7 @@ Keywords: 3D, plot, graphical representation, surface, gumbel, copula
 See also: MVAgumbelclayton
 
 Author: Song Song, Matthias Eckardt
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Sun, January 29 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Tue, April 16 2024 by Tim Dass

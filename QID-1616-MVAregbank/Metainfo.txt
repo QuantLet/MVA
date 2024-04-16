@@ -10,8 +10,10 @@ See also: MVAregpull, MVAregzoom
 
 Author: Jorge Patron, Vladimir Georgescu, Song Song, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Mon, September 15 2014 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafiles: bank2.dat

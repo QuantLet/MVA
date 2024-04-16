@@ -9,7 +9,9 @@ Keywords: correlation, correlation-matrix, covariance, covariance-matrix, mean, 
 See also: MVAdescbh, SFSmvol01, SFEVolaCov
 
 Author: Matthias Eckardt
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Mon, July 07 2014 by Lukas Borke
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafile: pullover.dat

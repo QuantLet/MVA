@@ -9,7 +9,9 @@ Keywords: F-test, F-statistic, critical-value, confidence-interval, test, hypoth
 See also: MVAlinregbh, MVAdiscbh, MVAdescbh, MVAclusbh, MVAboxbhd, MVAaerbh
 
 Author: Vladimir Georgescu, Song Song, Awdesch Melzer
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, April 04 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafile: bostonh.dat

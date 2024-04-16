@@ -9,7 +9,9 @@ Keywords: copula, gumbel, scatterplot, plot, data visualization, graphical repre
 See also: MVAcontnorm, MVAghcontour, MVAtdis
 
 Author: Song Song
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Fri, August 05 2011 by Awdesch Melzer
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Example: 10000-sample output for sigma_1 = 1, sigma_2 = 1, theta = 3.

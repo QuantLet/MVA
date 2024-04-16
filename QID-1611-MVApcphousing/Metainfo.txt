@@ -9,8 +9,10 @@ Keywords: pcp, parallel-coordinates-plot, financial, data visualization, plot, g
 See also: MVAdrafthousing, MVAdrafthousingt, MVApcp1, MVApcp2, MVApcp3, MVApcp4, MVApcp5, MVApcp6, MVApcp7, MVApcp8
 
 Author: Vladimir Georgescu, Jorge Patron, Song Song, Awdesch Melzer
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, February 29 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafile: bostonh.dat
 

@@ -10,8 +10,10 @@ See also: MVAboxbank1, MVAboxbank6, MVAboxbhd, MVAboxcar
 
 Author: Julia Wandke, Franziska Schulz
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Tue, September 09 2014 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafiles: bostonh.dat

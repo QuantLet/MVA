@@ -10,5 +10,7 @@ Keywords: bivariate, graphical representation, contour, normal-distribution, plo
 See also: MVAcontbank2, MVAdenbank2, MVAdenbank3, MVAscabank45, MVAscabank56, MVAscacar, MVAscapull1, MVAscapull2
 
 Author: Franziska Schulz, Maria Osipenko
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Mon, February 09 2015 by Lukas Borke
+Submitted[Python]: Tue, April 16 2024 by Tim Dass

@@ -9,5 +9,7 @@ Keywords: plot, graphical representation, t-distribution, cdf, pdf, density, dis
 See also: MVAcltbern, MVAcltbern2, MVAgausscauchy, MVAcauchy
 
 Author: Wolfgang K. Haerdle
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Mon, August 08 2011 by Awdesch Melzer
+Submitted[Python]: Tue, April 16 2024 by Tim Dass

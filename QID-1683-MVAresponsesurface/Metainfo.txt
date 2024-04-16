@@ -9,5 +9,7 @@ Keywords: 3D, surface, contour, plot, graphical representation, response-model, 
 See also: MVAdrug
 
 Author: Awdesch Melzer
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, April 04 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Tue, April 16 2024 by Tim Dass

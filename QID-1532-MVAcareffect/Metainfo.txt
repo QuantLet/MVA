@@ -8,8 +8,10 @@ Keywords: 'linear model, linear regression, least squares, R-squared, summary, F
 
 Author:   Zdenek Hlavka
 Author[Matlab]:   Janek Berger
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, June 07 2017 by Petra Burdejova
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafile[R]: carc.rda
 Datafile[Matlab]: carc.txt

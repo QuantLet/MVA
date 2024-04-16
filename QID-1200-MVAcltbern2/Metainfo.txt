@@ -9,8 +9,10 @@ Keywords: plot, graphical representation, bernoulli, normal, CLT, density, distr
 See also: MVAgausscauchy, MVAcltbern, MVAcauchy, MVAtdis
 
 Author: Wolfgang K. Haerdle
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, August 03 2011 by Awdesch Melzer
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Example: 
 - 1: n=5
