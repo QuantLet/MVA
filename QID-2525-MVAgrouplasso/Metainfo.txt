@@ -9,5 +9,7 @@ Keywords: lasso shrinkage, lasso, estimation, regression, plot, graphical repres
 See also: LCPvariance
 
 Author: Dedy D. Prastyo, Sergey Nasekin
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Fri, July 18 2014 by Felix Jung
+Submitted[Python]: Tue, April 23 2024 by Tim Dass

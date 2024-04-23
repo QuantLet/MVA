@@ -9,8 +9,10 @@ Keywords: contingency-table, chi-square, chi-square test, test, statistics, regr
 See also: MVAdrugLogistic, MVAdrug
 
 Author: Awdesch Melzer
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Fri, May 04 2012 by Dedy Dwi Prastyo 
+Submitted[Python]: Tue, April 23 2024 by Tim Dass
 
 Code warning: 
 - 1: 'In sqrt(1/i) : NaNs produced'

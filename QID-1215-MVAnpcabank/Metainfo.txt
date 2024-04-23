@@ -10,9 +10,11 @@ See also: MVAnpcabanki, MVAnpcahous, MVAnpcahousi, MVAnpcatime, MVAnpcafood, MVA
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Thu, August 04 2011 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Tue, April 23 2024 by Tim Dass
 
 Datafile: bank2.dat
 
