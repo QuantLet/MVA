@@ -12,9 +12,11 @@ See also: MVAnpcabanki, MVAnpcahous, MVAnpcahousi, MVAnpcabank, MVAnpcafood, MVA
 
 Author: Zografia Anastasiadou, Awdesch Melzer
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, April 02 2014 by Awdesch Melzer
 Submitted[SAS]: Tue, April 5 2016 by Svetlana Bykovskaya
+Submitted[Python]: Tue, April 23 2024 by Tim Dass
 
 Datafile: timebudget.dat
 

@@ -9,8 +9,10 @@ Keywords: logit, regression, probability, characteristic, financial
 See also: MSElogit, MSEglmest, MSElorenz
 
 Author: Mengmeng Guo
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Thu, June 05 2014 by Sergey Nasekin
+Submitted[Python]: Tue, April 23 2024 by Tim Dass
 
 Datafile: bankrupt.txt
 

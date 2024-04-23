@@ -9,7 +9,9 @@ Keywords: probability, logit, plot, graphical representation, regression
 See also: MVAdrug3waysTab, MVAdrug
 
 Author: Awdesch Melzer
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Wed, April 04 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Tue, April 23 2024 by Tim Dass
 
 Example: Fit of the log of the odds-ratios for taking drugs. Men are the stars and women are the circles.
