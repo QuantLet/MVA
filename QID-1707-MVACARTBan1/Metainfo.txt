@@ -7,8 +7,10 @@ Description: Performs classification analysis for the US bankruptcy data with 84
 Keywords: plot, graphical representation, classification, analysis, financial, decision-tree, data visualization, Gini index
 
 Author: Awdesch Melzer
+Author[Python]: Matthias Fengler, Kinane Habra
 
 Submitted:  Sat, May 10 2014 by Felix Jung
+Submitted[Python]: Sun, June 30 2024 by Kinane Habra
 
 Datafile: bankruptcy.dat
 
