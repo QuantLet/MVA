@@ -9,5 +9,7 @@ Keywords: SVM, anisotropic, gaussian, kernel, plot, graphical representation, cl
 See also: MVAsvmOrangePeel, MVAppsib, ppsib, ppsibexample
 
 Author: Dedy D. Prastyo
+Author[Python]: Matthias Fengler, Kinane Habra
 
 Submitted: Mon, March 17 2014 by Franziska Schulz
+Submitted[Python]: Sun, June 30 2024 by Kinane Habra

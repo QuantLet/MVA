@@ -9,8 +9,10 @@ Keywords: EDR-directions, dimension-reduction, estimation, SIR, regression, 3D, 
 See also: MVAppsib, MVAsimdep1, MVAsir2data, MVAsimdepex, MVAppexample, ppsib, ppsibexample
 
 Author: Zografia Anastasiadou
+Author[Python]: Matthias Fengler, Kinane Habra
 
 Submitted: Fri, August 05 2011 by Awdesch Melzer
+Submitted[Python]: Sun, June 30 2024 by Kinane Habra
 
 Example: 
 - 1: The left plots show the response versus the estimated effective dimension reduction directions (EDR-directions). The upper right plot is a three-dimensional plot of the first two directions and the response.  The lower right plot shows the eigenvalues (*) and the cumulative sum (o).

@@ -9,5 +9,7 @@ Keywords: simplicial-depth, plot, graphical representation
 See also: MVAppsib, MVAsimdepex, MVAsir2data, MVAsirdata, MVAppexample, ppsib, ppsibexample
 
 Author: Zografia Anastasiadou
+Author[Python]: Matthias Fengler, Kinane Habra
 
 Submitted: Tue, December 17 2013 by Franziska Schulz
+Submitted[Python]: Sun, June 30 2024 by Kinane Habra

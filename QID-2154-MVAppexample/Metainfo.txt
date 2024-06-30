@@ -9,8 +9,10 @@ Keywords: projection-pursuit, projection, EPP, exploratory-projection-pursuit, p
 See also: MVAppsib, MVAsimdep1, MVAsirdata, MVAsir2data, MVAsimdepex, ppsib, ppsibexample, ppexample, ppf
 
 Author: Awdesch Melzer
+Author[Python]: Matthias Fengler, Kinane Habra
 
 Submitted: Wed, April 24 2013 by Maria Osipenko
+Submitted[Python]: Sun, June 30 2024 by Kinane Habra
 
 Datafile: bank2.dat
 
