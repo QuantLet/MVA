@@ -9,7 +9,9 @@ Keywords: plot, graphical, representation, classification, analysis, financial, 
 See also: MVACARTGiniTree1
 
 Author: Awdesch Melzer
+Author[Python]: Matthias Fengler, Liudmila Gorkun-Voevoda
 
 Submitted: Wed, April 25 2012 by Dedy Dwi Prastyo
+Submitted[Python]: Sun, June 30 2024 by Kinane Habra
 
 Datafile: bankruptcy.dat
