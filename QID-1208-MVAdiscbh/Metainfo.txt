@@ -10,9 +10,11 @@ See also: MVAaer, MVAaper, MVAaerbh, MVAdisfbank, MVAdisnorm
 
 Author: Zografia Anastasiadou
 Author[SAS]: Svetlana Bykovskaya
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Submitted: Thu, August 04 2011 by Awdesch Melzer
 Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[Python]: Tue, February 22 2022 by Liudmila Gorkun-Voevoda
 
 Datafile: bostonh.dat
 
