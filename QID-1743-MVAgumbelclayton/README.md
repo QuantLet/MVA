@@ -1,57 +1,30 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
-
-## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **MVAgumbelclayton** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
-
-```yaml
-
-Name of QuantLet : MVAgumbelclayton
-
-Published in : Applied Multivariate Statistical Analysis
-
-Description : Produces Gumbel-Hougaard and Clayton copula sampling for fixed parameter theta.
-
-Keywords : 'gumbel, clayton, copula, multivariate-copula, statistics, probability, plot, graphical
-representation'
-
-See also : MVAghsurface
-
-Author : Awdesch Melzer
-
-Submitted : Fri, May 18 2012 by Dedy Dwi Prastyo
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
 
 ```
+Name of QuantLet: MVAgumbelclayton
 
-![Picture1](MVAgumbelclayton_1.png)
+Published in: Applied Multivariate Statistical Analysis
 
-![Picture2](MVAgumbelclayton_2.png)
+Description: Produces Gumbel-Hougaard and Clayton copula sampling for fixed parameter theta.
 
+Keywords: gumbel, clayton, copula, multivariate-copula, statistics, probability, plot, graphical representation
 
-### R Code:
-```r
+See also: MVAghsurface
 
-# clear variables and close windows
-rm(list = ls(all = TRUE))
-graphics.off()
+Author: Awdesch Melzer
 
-# install and load packages
-libraries = c("QRM")
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
-
-# Clayton copula sample
-clay = rcopula.clayton(10000, theta = 3, 2)
-
-# Gumbel-Hougaard copula sample
-gum = rcopula.gumbel(10000, theta = 3, 2)
-
-# Plot of Clayton copula sample
-plot(clay, col = "blue3", ylab = "Y", xlab = "X", main = "Clayton", cex = 0.1)
-
-# Plot of GH copula sample
-dev.new()
-plot(gum, col = "blue3", ylab = "Y", xlab = "X", main = "Gumbel", cex = 0.1) 
+Submitted: Fri, May 18 2012 by Dedy Dwi Prastyo
 
 ```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-1743-MVAgumbelclayton/MVAgumbelclayton_1.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-1743-MVAgumbelclayton/MVAgumbelclayton_2.png" alt="Image" />
+</div>
+

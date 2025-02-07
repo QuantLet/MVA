@@ -1,9 +1,10 @@
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **MVApcp5** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
-
-```yaml
-
+```
 Name of QuantLet: MVApcp5
 
 Published in: Applied Multivariate Statistical Analysis
@@ -12,80 +13,24 @@ Description: Computes parallel coordinates plot for variables headroom, rear sea
 
 Keywords: pcp, parallel-coordinates-plot, financial, data visualizationvplot, graphical representation
 
-See also: MVApcphousing, MVApcp1, MVApcp2, MVApcp3, MVApcp4, MVApcp6, MVApcp7, MVApcp8 
+See also: MVApcphousing, MVApcp1, MVApcp2, MVApcp3, MVApcp4, MVApcp6, MVApcp7, MVApcp8
 
 Author: Ji Cao, Song Song, Vladimir Georgescu, Awdesch Melzer
 
-Author[Python]: 'Matthias Fengler, Tim Dass'
+Author[Python]: Matthias Fengler, Tim Dass
 
 Submitted: Tue, September 09 2014 by Awdesch Melzer
 
-Submitted[Python]: 'Tue, April 16 2024 by Tim Dass'
+Submitted[Python]: Tue, April 16 2024 by Tim Dass
 
 Datafile: carc.txt
 
 ```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-1576-MVApcp5/MVApcp5-python.png" alt="Image" />
+</div>
 
-![Picture1](MVApcp5-python.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-1576-MVApcp5/MVApcp5.png" alt="Image" />
+</div>
 
-![Picture2](MVApcp5.png)
-
-### PYTHON Code
-```python
-
-#works on pandas 1.5.2, numpy 1.23.5 and matplotlib 3.6.2
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from pandas.plotting import parallel_coordinates
-
-df = pd.read_table("carc.txt", header=None)
-df = df.iloc[:,[4,5,6]]
-for i in df.columns:
-    df[i] = np.log(df[i])
-    df[i] = (df[i]-np.min(df[i])) / np.ptp(df[i])
-
-df.rename(columns={4:"headroom", 5:"rear seat", 6:"trunk space"},
-          inplace=True)
-df["name"] = "Parallel Coordinates Plot(Car Data)"
-
-fig, ax = plt.subplots(figsize = (12,10))
-
-parallel_coordinates(df, "name", color=("black"), linewidth ="0.9")
-plt.legend().set_visible(False)
-ax.tick_params(axis='both', labelsize=25)
-plt.title(label = "Parallel Coordinates Plot(Car Data)", 
-          fontsize = 30, fontweight = "bold", pad = 15)
-plt.show()
-
-```
-
-automatically created on 2024-04-25
-
-### R Code
-```r
-
-
-# clear all variables
-rm(list = ls(all = TRUE))
-graphics.off()
-
-# install and load packages
-libraries = c("MASS")
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
-
-# load data
-x = read.table("carc.txt")
-frame = data.frame(x[, 5:7])
-colnames(frame) = c("headroom","rear seat", "trunk space")
-
-# Plot
-parcoord(log(frame[, c(1, 2, 3)]), frame = TRUE, main = "Parallel Coordinates Plot (Car Data)")
-axis(side = 2, at = seq(0, 1, 0.2), labels = seq(0, 1, 0.2)) 
-
-```
-
-automatically created on 2024-04-25
