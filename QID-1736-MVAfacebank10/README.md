@@ -1,54 +1,36 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
-
-## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **MVAfacebank10** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
-
-```yaml
-
-Name of QuantLet : MVAfacebank10
-
-Published in : Applied Multivariate Statistical Analysis
-
-Description : Computes Flury faces for observations 91 to 110 of the Swiss bank notes data.
-
-Keywords : Flury faces, financial, data visualization, graphical representation, plot
-
-See also : MVAfacebank50
-
-Author : Julia Wandke
-
-Submitted : Tue, September 09 2014 by Awdesch Melzer
-
-Datafiles : bank2.dat
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
 
 ```
+Name of QuantLet: MVAfacebank10
 
-![Picture1](MVAfacebank10-1.png)
+Published in: Applied Multivariate Statistical Analysis
 
+Description: Computes Flury faces for observations 91 to 110 of the Swiss bank notes data.
 
-### R Code:
-```r
+Keywords: Flury faces, financial, data visualization, graphical representation, plot
 
-# clear variables and close windows
-rm(list = ls(all = TRUE))
-graphics.off()
+See also: MVAfacebank50
 
-# install and load packages
-libraries = c("aplpack")
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+Author: Julia Wandke
 
-# load data
-x  = read.table("bank2.dat")
-xx = x[91:110, ]
+Author[Python]: Raul Cristian Bag
 
-ncolors = 15
+Submitted: Tue, September 09 2014 by Awdesch Melzer
 
-# plot
-faces(xx, nrow = 4, face.type = 1, scale = TRUE, col.nose = rainbow(ncolors), col.eyes = rainbow(ncolors, 
-    start = 0.6, end = 0.85), col.hair = terrain.colors(ncolors), col.face = heat.colors(ncolors), 
-    col.lips = rainbow(ncolors, start = 0, end = 1), col.ears = rainbow(ncolors, 
-        start = 0, end = 0.8), plot.faces = TRUE)
+Submitted[Python]: Fri, December 2 2022 by Raul Cristian Bag
+
+Datafiles: bank2.dat
+
 ```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-1736-MVAfacebank10/MVAfacebank10-1.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-1736-MVAfacebank10/MVAfacebank10_python.png" alt="Image" />
+</div>
+

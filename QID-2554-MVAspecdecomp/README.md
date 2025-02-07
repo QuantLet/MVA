@@ -1,64 +1,30 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
 
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+```
+Name of QuantLet: MVAspecdecomp
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **MVAspecdecomp** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
+Published in: Applied Multivariate Statistical Analysis
 
-```yaml
+Description: Performs a spectral decomposition of a 2 by 2 covariance matrix.
 
-Name of QuantLet : MVAspecdecomp
+Keywords: covariance, decomposition, eigenvalues, eigenvectors, spectral, sas
 
-Published in : Applied Multivariate Statistical Analysis
+Author: Wolfgang K. Haerdle
 
-Description : Performs a spectral decomposition of a 2 by 2 covariance matrix.
+Author[SAS]: Svetlana Bykovskaya
 
-Keywords : covariance, decomposition, eigenvalues, eigenvectors, spectral, sas
+Submitted: Mon, September 15 2014 by Felix Jung
 
-Author : Wolfgang K. Haerdle
-
-Author[SAS] : Svetlana Bykovskaya
-
-Submitted : Mon, September 15 2014 by Felix Jung
-
-Submitted[SAS] : Wen, April 6 2016 by Svetlana Bykovskaya
+Submitted[SAS]: Wen, April 6 2016 by Svetlana Bykovskaya
 
 Input: 
-- rho: Covariance of the two variables being considered.
+- rho : Covariance of the two variables being considered.
 
-Output : '2 x 2- Difference between the covariance matrix a and its spectral decomposition. Should
-be very close to zero.'
+Output: 
+- '2 x 2- Difference between the covariance matrix a and its spectral decomposition. Should be very close to zero.
 
-```
-
-
-### R Code:
-```r
-
-# clear variables and close windows
-rm(list = ls(all = TRUE))
-graphics.off()
-
-rho = 0.9  # Set the covariance
-a = cbind(c(1, rho), c(rho, 1))  # Covariance matrix
-e = eigen(a)  # Perform spectral decomposition
-lambda = diag(e$values)  # Diagonal matrix of eigenvalues
-gamma = e$vectors  # Gamma transformation matrix
-
-# Check whether the decomposition yiels a
-a - gamma %*% lambda %*% t(gamma)  # Should yield a matrix of zeros (approx)
-
-```
-
-### SAS Code:
-```sas
-
-proc iml; 
-  rho = 0.9;                             * Set the covariance;
-  a = ({1} || rho ) // (rho || {1});     * Covariance matrix;
-  lambda = diag(eigval(a));              * Diagonal matrix of eigenvalues;
-  gamma = eigvec(a);                     * Gamma transformation matrix;
-  
-  * Check whether the decomposition yiels a;
-  p = a - gamma * lambda * gamma`;      * Should yield a matrix of zeros (approx);
-  print p; 
-quit;
 ```

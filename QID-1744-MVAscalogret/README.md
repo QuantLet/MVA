@@ -1,68 +1,30 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
-
-## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **MVAscalogret** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
-
-```yaml
-
-Name of QuantLet : MVAscalogret
-
-Published in : Applied Multivariate Statistical Analysis
-
-Description : Provides a scatterplot of daily standardized log-returns of Siemens versus Bayer.
-
-Keywords : 'log-returns, returns, financial, plot, graphical representation, scatterplot,
-multivariate, standardization, data visualization'
-
-Author : Awdesch Melzer
-
-Submitted : Fri, May 18 2012 by Dedy Dwi Prastyo
-
-Datafile : BAYER_close_99_06.dat, SIEMENS_close_99_06.dat
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
 
 ```
+Name of QuantLet: MVAscalogret
 
-![Picture1](MVAscalogret_1.png)
+Published in: Applied Multivariate Statistical Analysis
 
-![Picture2](MVAscalogret_2.png)
+Description: Provides a scatterplot of daily standardized log-returns of Siemens versus Bayer.
 
+Keywords: log-returns, returns, financial, plot, graphical representation, scatterplot, multivariate, standardization, data visualization
 
-### R Code:
-```r
+Author: Awdesch Melzer
 
-# clear variables and close windows
-rm(list = ls(all = TRUE))
-graphics.off()
+Submitted: Fri, May 18 2012 by Dedy Dwi Prastyo
 
-# install and load packages
-libraries = c("lattice")
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
-
-# load data
-x1  = read.table("SIEMENS_close_99_06.dat")
-x2  = read.table("BAYER_close_99_06.dat")
-
-X   = data.frame(cbind(x1[262:782, 2], x2[262:782, 2]))
-XX  = cbind(diff(log(X[, 1])), diff(log(X[, 2])))
-X   = data.frame(XX)
-
-# Scatterplot of Log-returns of Siemens vs. Bayer
-xyplot(X1 ~ X2, data = X, col = "red3", pch = 18, ylab = "Standardized Log-Returns of Siemens", 
-    xlab = "Standardized Log-Returns of Bayer", xlim = c(-0.1, 0.1), ylim = c(-0.1, 
-        0.1), main = "Log-Returns of Siemens versus Bayer 20000103-20020101")
-
-dev.new()
-
-Y   = data.frame(cbind(x1[1305:1826, 2], x2[1305:1826, 2]))
-YY  = cbind(diff(log(Y[, 1])), diff(log(Y[, 2])))
-Y   = data.frame(YY)
-
-# Scatterplot of Log-returns of Siemens vs. Bayer
-xyplot(X1 ~ X2, data = Y, col = "blue3", pch = 18, ylab = "Standardized Log-Returns of Siemens", 
-    xlab = "Standardized Log-Returns of Bayer", xlim = c(-0.1, 0.1), ylim = c(-0.1, 
-        0.1), main = "Log-Returns of Siemens versus Bayer 20040101-20060102") 
+Datafile: BAYER_close_99_06.dat, SIEMENS_close_99_06.dat
 
 ```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-1744-MVAscalogret/MVAscalogret_1.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-1744-MVAscalogret/MVAscalogret_2.png" alt="Image" />
+</div>
+

@@ -1,14 +1,15 @@
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **MVAtsneqtlkeywords** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
-
-```yaml
-
+```
 Name of QuantLet: MVAtsneqtlkeywords
 
 Published in: Applied Multivariate Statistical Analysis
 
-Description: 'Quantlet clustering with PCA and t-SNE projection.'
+Description: Quantlet clustering with PCA and t-SNE projection.
 
 Keywords: Quantlet, 't-SNE', plot, python, cluster, PCA
 
@@ -17,13 +18,13 @@ See also: MVAtsnegausst1, MVAtsnetrefoil, DEDA_HClustering_quantlets
 Author: Matthias Fengler, Tim Dass
 
 Datafile: data_file_20181203.json
+
 ```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-2604-MVAtsneqtlkeywords/MVAtsneqtlkeywords-1_python.png" alt="Image" />
+</div>
 
-![Picture1](MVAtsneqtlkeywords-1_python.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/MVA/master/QID-2604-MVAtsneqtlkeywords/MVAtsneqtlkeywords-2_python.png" alt="Image" />
+</div>
 
-![Picture2](MVAtsneqtlkeywords-2_python.png)
-
-### [IPYNB Code: MVAtsneqtlkeywords.ipynb](MVAtsneqtlkeywords.ipynb)
-
-
-automatically created on 2023-10-02
