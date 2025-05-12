@@ -9,7 +9,9 @@ Keywords: simplicial-depth, median, distribution, plot, graphical representation
 See also: MVAppsib, MVAsimdep1, MVAsir2data, MVAsirdata, MVAppexample, ppsib, ppsibexample
 
 Author: Zografia Anastasiadou, Franziska Schulz
+Author[Python]: Matthias Fengler, Kinane Habra
 
 Submitted: Tue, February 04 2014 by Franziska Schulz
+Submitted[Python]: Fru, May 12 2025 by Kinane Habra
 
 Example: The points with higher depth are indicated via filled shapes and the deepest point, the two-dimensional median is indicated as a big red star in the center.
