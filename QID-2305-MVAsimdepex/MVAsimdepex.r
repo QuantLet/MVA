@@ -4,11 +4,17 @@ rm(list = ls(all = TRUE))
 graphics.off()
 
 # install and load packages
-libraries = c("depth", "localdepth")
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+# libraries = c("depth", "localdepth")
+# lapply(libraries, function(x) if (!(x %in% installed.packages())) {
+#     install.packages(x)
+# })
+# lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+       
+install.packages("devtools")
+devtools::install_github("cran/localdepth")
+library(localdepth)
+install.packages("depth")
+library(depth)
 
 # parameter settings
 set.seed(101)
