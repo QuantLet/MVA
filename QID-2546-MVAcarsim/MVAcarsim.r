@@ -4,12 +4,16 @@ rm(list = ls(all = TRUE))
 graphics.off()
 
 # install and load packages
-libraries = c("simba")
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+# libraries = c("simba")
+# lapply(libraries, function(x) if (!(x %in% installed.packages())) {
+#     install.packages(x)
+# })
+# lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
+install.packages("devtools")
+devtools::install_github("cran/simba")
+library(simba)       
+       
 x 	= read.table("carmean2.dat")  		# load data
 x 	= as.matrix(x[, 2:9])  			# retrieve Renault, Rover, Toyota
 x1719 	= x[c(17:19), ]
