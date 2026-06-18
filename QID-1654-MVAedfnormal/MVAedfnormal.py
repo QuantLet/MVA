@@ -13,9 +13,11 @@ for i in n:
     y = norm.rvs(size=i)
     y = ECDF(y)
     
-    ax.plot(xx, theoretical, label="Theoretical", c = "r", lw = 3)
-    ax.step(y.x, y.y, label="Empirical", c = "b")
+    ax.plot(xx, theoretical, c = "r", lw = 3)
+    ax.step(y.x, y.y, c = "b")
     fig.suptitle("EDF and CDF", fontsize = 25, y = 0.93)
+    fig.patch.set_alpha(0.0)
+    ax.patch.set_alpha(0.0)
     ax.set_xlim(-3, 3)
     ax.set_ylim(0, 1)
     ax.set_xlabel("X", fontsize = 22)
