@@ -4,11 +4,15 @@ rm(list = ls(all = TRUE))
 graphics.off()
 
 # install and load packages
-libraries = c("mvpart")
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+# libraries = c("mvpart")
+# lapply(libraries, function(x) if (!(x %in% installed.packages())) {
+#     install.packages(x)
+# })
+# lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+
+install.packages("devtools")
+devtools::install_github("cran/mvpart")
+library(mvpart)
 
 # load data
 x  = read.table("bankruptcy.dat")
