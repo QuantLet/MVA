@@ -25,6 +25,6 @@ Input:
 - rho : Covariance of the two variables being considered.
 
 Output: 
-- '2 x 2- Difference between the covariance matrix a and its spectral decomposition. Should be very close to zero.
+- 2 x 2- Difference between the covariance matrix a and its spectral decomposition. Should be very close to zero.
 
 ```
