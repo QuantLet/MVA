@@ -24,7 +24,7 @@ Submitted: Fri, May 04 2012 by Dedy Dwi Prastyo
 Submitted[Python]: Tue, April 23 2024 by Tim Dass
 
 Code warning: 
-- 1: 'In sqrt(1/i) : NaNs produced
-- 2: 'In sqrt(1/i) : NaNs produced
+- 1: 'In sqrt(1/i) : NaNs produced'
+- 2: 'In sqrt(1/i) : NaNs produced'
 
 ```
