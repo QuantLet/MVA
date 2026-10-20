@@ -9,11 +9,11 @@ Name of Quantlet: MVAclus8km
 
 Published in: Applied Multivariate Statistical Analysis
 
-Description: performs a k-means cluster analysis with the standard algorithm (Lloyds)
+Description: performs a k-means cluster analysis with the standard algorithm (Lloyds) on an 8 points example'. the python code also perfoms a k-medians and a k-medoids clustering.
 
 Keywords: cluster-analysis, plot, graphical representation, distance, partitioning
 
-See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8p, SMSclus8pd, SMSclus8pd,
+See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Simon Trimborn, Elisabeth Bommes
 
