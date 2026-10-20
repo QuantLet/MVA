@@ -28,7 +28,8 @@ Output:
 - ind : scalar, the corresponding Sibson Jones index
 
 Example: 
-- 'Contents of ind
+- Contents of ind [1] 0.001988516
+- The plot of the index function in dependence of the projection vector. The projection vector is parametrized by the angle phi. Since the projection vector v and -v generate the same projection, we see the index function doubled. Note that the maxima at phi=1,76 and phi=2,8 represent the most interesting projections.
 
 ```
 <div align="center">
