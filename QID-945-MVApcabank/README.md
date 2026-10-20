@@ -35,7 +35,7 @@ Datafile: bank2.dat
 
 Example: Principal components of the bank data.
 
-Note: Matlab and SAS decompose matrices differently than R, and therefore some
+Note: Matlab and SAS decompose matrices differently than R, and therefore some of the eigenvectors may have different signs.
 
 ```
 <div align="center">
