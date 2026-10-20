@@ -9,7 +9,7 @@ Name of QuantLet: MVAlassoregress
 
 Published in: Applied Multivariate Statistical Analysis
 
-Description: Performs a standardized regression using the Lasso methodology. The
+Description: Performs a standardized regression using the Lasso methodology. The estimates become nonzero at a point that means the variables enter the model equation sequentially as the scaled shrinkage parameter increases. The Lasso technique results in variable selection. Finally, the resulting Lasso estimates are plotted.
 
 Keywords: estimation, lasso, lasso shrinkage, logit, regression, forecast, data visualization, plot, graphical representation, financial
 
